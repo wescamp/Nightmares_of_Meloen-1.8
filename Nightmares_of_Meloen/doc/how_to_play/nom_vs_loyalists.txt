@@ -1,0 +1,21 @@
+Nightmares of Meloen vs Loyalists
+
+After having got a general purpose recruitment on turn 1, when realizing Nightmares of Meloen are facing Loyalists, they want to get <i>Scornful Watchers</i>. Their arcane focus special is using loyalists' arcane resistance at their detriment. The <i>Scornful Watcher</i> is rather fragile on melee though and you need to protect at any time of the day. The <i>Unhatched</i> is usually used for that job as it is quite cheap and thus does not divert too much resource from the <i>Scornful Watcher</i> recruitment.
+
+While most of Loyalists' army is a threat to an wounded <i>Unhatched</i>, only the <i>Mage</i> will dare to attack them when their hitpoints are still high. If he fails to finish the <i>Unhatched</i>, a sacrifice on the <i>Mage</i> is a option to consider taking into account the huge difference in price and the hard damage the <i>Unhatched</i> can deal. When charging Loyalists' melee units, getting them cursed first will increase your chances to make damage, while support of the <i>Howling Darkness</i> helps reducing the retaliation.
+
+When retreating the <i>Unhatched</i> must stay in first line so it is quite important they don't get hurt too bad at the end of the night. Consider with great care the possible moves from the <i>Cavalryman</i> as he will be the main tool to get you zoced when the day arrives. Recruit your <i>Unhatched</i> around second night so they are available to cover your retreat, recruit <i>Scornful Watcher</i> around second day so can counter if Loyalists push too far.
+
+<u>Unhatched:</u> get enough of those to protect your weaker units. They can engage in combat with any ranged unit and melee unit too if you make full use of <i>Unhatched</i>'s trait. Exception for the <i>Heavy Infantry</i> that should not be attacked directly for fear of hard retaliation.
+
+<u>Black Cat:</u> get one or two of them to lower opponent's defence. Combined with heavy hitters <i>Unhatched</i> and <i>Scornful Watcher</i> they guarantee maximal damage. They can be use for village holding too if the number of attacker is limited.
+
+<u>Life Thief:</u> don't recruit those against Loyalists as their unit's all have good arcane resistance to counter his melee attack.
+
+<u>Scornful Watcher:</u> when facing Loyalists, this is showtime for the <i>Scornful Watcher</i>. You have to recruit enough of them to do plenty of damage at night but make sure you can cover them when the day comes. You should consider feeding them XP so to use the level 2 at his full potential.
+
+<u>Howling Darkness:</u> you can recruit one of those to help the <i>Unhatched</i> to clear the way for <i>Watchers</i> without taking too much retaliation. His own ranged attack can be of some help to weaken units that don't resist cold. Timing his attack is important because as soon as he has fired, you can't use his skirmisher for further support.
+
+<u>Unstable Elemental:</u> recruit some of them zocing out your opponent's troops at dawn and trap them in at dusk. When put in water they can restrain <i>Mermen</i>'s mobility, however they should not engage in combat due to their bad resistance. The <i>Unstable Elemental</i> can also help holding the line when put on hill or forest. In the later terrain, the slow special can keep the <i>Mages</i> away and their pierce resist can hold the <i>Spearmen</i>.
+
+<u>Creeper:</u> you can use some of them to hurt <i>Mages</i>, <i>Bowmen</i> or horses. When your time of the day is done, you can also use them to shield more important units by forcing your opponent to use some unit to clear them out. Keep them in pack to lower upkeep.

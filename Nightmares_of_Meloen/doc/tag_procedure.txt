@@ -1,0 +1,32 @@
+(02:15:59 PM) Espreon: FAAB: Basically, the procedure goes like this:
+(02:16:15 PM) Espreon: 1. Increment the version number in the VERSION metatag (drop the +svn particle)
+(02:17:06 PM) Espreon: 2. Run "svn copy https://wesnoth-umc-dev.svn.sf.net/svnroot/wesnoth-umc-dev/trunk/Nightmares_of_Meloen https://wesnoth-umc-dev.svn.sf.net/svnroot/wesnoth-umc-dev/tags/trunk/Nightmares_of_Meloen/<insert version number here>"
+(02:17:11 PM) FAAB: I should do an update first, right ?
+(02:17:50 PM) Espreon: 3. Readd the "+svn" partcle to /trunk/Nightmares_of_Meloen/dist/VERSION
+(02:18:08 PM) Espreon: An update of what? You mean an "svn up"
+(02:18:13 PM) FAAB: yes
+(02:18:54 PM) Espreon: Yeah.
+(02:20:59 PM) Espreon: FAAB: And of course, you are going to upload the copy that you just added to /tags
+(02:21:53 PM) FAAB: step 3 means adding suffix "+svn" in the VERSION that I have just dropped ?
+(02:22:00 PM) Espreon: Yes.
+(02:22:23 PM) Espreon: Yeah, with one, you are changing the version number to that of the release and dropping the particle.
+(02:23:07 PM) FAAB: got it
+(02:23:46 PM) FAAB: and the "of course ..." thing, I don't get it. Isn't step 2 already a copy ?
+(02:30:04 PM) Espreon: FAAB: Wait.
+(02:30:17 PM) Espreon: FAAB: Commit the version bump first.
+(02:32:14 PM) CIA-23: wesnoth-umc-dev: faabumc * r6316 /trunk/Nightmares_of_Meloen/dist/VERSION: Update version number
+(02:33:37 PM) Espreon: FAAB: Now do step two.
+(02:33:58 PM) FAAB: processing now
+(02:34:04 PM) CIA-23: wesnoth-umc-dev: faabumc * r6317 /tags/trunk/Nightmares_of_Meloen/0.23.2/: Tag version 0.23.2
+(02:35:55 PM) CIA-23: wesnoth-umc-dev: faabumc * r6318 /trunk/Nightmares_of_Meloen/dist/VERSION: Version 0.32.2+svn
+(02:36:40 PM) FAAB: so for the release on the add-on server ...
+(02:36:58 PM) Espreon: Just upload that tag.
+(02:37:09 PM) Espreon: ...I shall generate a tarball for you.
+(02:39:21 PM) FAAB: I will have to dowload it from sourceforge.net, untar it on my ~/wesnoth/data/add-ons directory, change the version in the pbl and upload everything on the add-on server
+(02:39:28 PM) FAAB: is that correct ?
+(02:40:07 PM) Espreon: Yes, but, you can just download the tag from the repository yourself.
+(02:40:25 PM) Espreon: http://wesnoth-umc-dev.svn.sourceforge.net/viewvc/wesnoth-umc-dev/tags/trunk/Nightmares_of_Meloen/0.23.2.tar.gz?view=tar
+(02:40:39 PM) Espreon: You'll have to change the directory's name, though.
+(02:42:50 PM) FAAB: I am trying the download-the-tag way
+(02:43:09 PM) FAAB: as it seems it doesn't rely on you that much
+(02:43:38 PM) Espreon: Indeed.

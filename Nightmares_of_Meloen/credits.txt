@@ -1,0 +1,28 @@
+#Faction maintainer : krotop & FreeAsABeer
+
+
+#Credits :
+
+##Arts : 
+###mystic X the unknown : all current sprites, and Meloen specific keep terrain
+###Niborelf : original sprites
+###Melon : concept sketches
+###Mist : Meloen specific castle terrain
+
+##Historic : Mist & krotop
+
+##Coding :
+--Ability :
+###Mist : banding, arcane focus
+###krotop : banding upkeep, terrain link, jinx
+--Features :
+###Mist : starting keep modification, glowing rune terrain macro
+###FreeAsABeer : default only random faction
+
+##Playtest and balance :
+###FreeAsABeer
+###mysticX_th_unknown
+###Velensk
+###krotop
+
+##Bug fixing : FreeAsABeer & krotop
