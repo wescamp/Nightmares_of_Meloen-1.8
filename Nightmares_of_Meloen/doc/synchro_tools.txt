@@ -1,0 +1,17 @@
+To see the list of changes devel era since last synchro:
+--------------------------------------------------------
+This command is to be run from the svn checkout root directory.
+This command can be run to have the list of commit messages to prepare a release note.
+
+svn log -r `cat devel/SYNCHRO | cut -d\  -f 13-`:HEAD ./devel
+
+To patch file of stable era with all changes in devel era since last synchro:
+-----------------------------------------------------------------------------
+These two commands are to be run from the svn checkout root directory.
+All local modifications in devel era must have been commited before running the commands. These commands should be run sequence. At the end of the sequence, the stable era can be commited to prepare a new tag.
+
+svn diff -r `cat devel/SYNCHRO | cut -d\  -f 13-`:HEAD devel > patch_`cat devel/SYNCHRO | cut -d\  -f 13-`.diff
+patch -p1 < patch_`cat devel/SYNCHRO | cut -d\  -f 13-`.diff
+./tools/renameProject.py --exclude-dirs ".svn:devel" --pattern ":" --pattern ":" --pattern ":"
+
+At the end of the sequence, when the stable era has been commited, the devel/SYNCHRO file must be edited to store the revision number of the synchronisation.
