@@ -2,49 +2,60 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-04-19 18:02+0200\n"
+"POT-Creation-Date: 2010-10-03 13:03+0200\n"
 "PO-Revision-Date: 2010-04-19 18:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. [era]: id=aoh_nightmares_of_meloen_{NIGHTMARES_OF_MELOEN_VERSION}
-#: Nightmares_of_Meloen/eras/aoh+nightmares.cfg:5
-msgid "Heroes+Nightmares"
+#. [era]: id=aoh_nightmares_of_meloen_devel_{NIGHTMARES_OF_MELOEN_DEVEL_VERSION}
+#: Nightmares_of_Meloen/devel/eras/aoh+nightmares.cfg:5
+msgid "Heroes+Nightmares-devel"
 msgstr ""
 
 #. [multiplayer_side]: id=Random_default
 #: Nightmares_of_Meloen/eras/aoh+nightmares.cfg:10
 #: Nightmares_of_Meloen/eras/default+nightmares.cfg:10
+#: Nightmares_of_Meloen/devel/eras/aoh+nightmares.cfg:10
+#: Nightmares_of_Meloen/devel/eras/default+nightmares.cfg:10
 msgid "Random Default"
 msgstr ""
 
-#. [era]: id=nightmares_of_meloen_{NIGHTMARES_OF_MELOEN_VERSION}
-#: Nightmares_of_Meloen/eras/default+nightmares.cfg:5
-msgid "Default+Nightmares"
+#. [era]: id=nightmares_of_meloen_devel_{NIGHTMARES_OF_MELOEN_DEVEL_VERSION}
+#: Nightmares_of_Meloen/devel/eras/default+nightmares.cfg:5
+msgid "Default+Nightmares-devel"
 msgstr ""
 
+#. [multiplayer_side]: id=nightmares, type=DEVEL_Soul Snatcher
+#. [multiplayer_side]: id=nightmares, type=DEVEL_Death Spectre
 #. [multiplayer_side]: id=nightmares, type=Soul Snatcher
 #. [multiplayer_side]: id=nightmares, type=Death Spectre
+#: Nightmares_of_Meloen/devel/factions/nightmares-default.cfg:4
+#: Nightmares_of_Meloen/devel/factions/nightmares-aoh.cfg:4
 #: Nightmares_of_Meloen/factions/nightmares-default.cfg:4
 #: Nightmares_of_Meloen/factions/nightmares-aoh.cfg:4
 msgid "Nightmares of Meloen"
 msgstr ""
 
+#. [race]: id=DEVEL_aberration
 #. [race]: id=aberration
+#: Nightmares_of_Meloen/devel/races/race_abberation.cfg:9
 #: Nightmares_of_Meloen/races/race_abberation.cfg:9
 msgid "race^Aberration"
 msgstr ""
 
-#. [race]: id=aberration
-#: Nightmares_of_Meloen/races/race_abberation.cfg:10
+#. [race]: id=DEVEL_aberration
+#: Nightmares_of_Meloen/devel/races/race_abberation.cfg:10
 msgid "race plural^Aberrations"
 msgstr ""
 
+#. [race]: id=DEVEL_aberration
 #. [race]: id=aberration
+#: Nightmares_of_Meloen/devel/races/race_abberation.cfg:12
 #: Nightmares_of_Meloen/races/race_abberation.cfg:12
 msgid ""
 "So deformed physically that it's immediately obvious that they can't be "
@@ -53,16 +64,18 @@ msgid ""
 msgstr ""
 
 #. [race]: id=elemental
+#: Nightmares_of_Meloen/devel/races/race_elemental.cfg:9
 #: Nightmares_of_Meloen/races/race_elemental.cfg:9
 msgid "race^Elemental"
 msgstr ""
 
 #. [race]: id=elemental
-#: Nightmares_of_Meloen/races/race_elemental.cfg:10
+#: Nightmares_of_Meloen/devel/races/race_elemental.cfg:10
 msgid "race plural^Elementals"
 msgstr ""
 
 #. [race]: id=elemental
+#: Nightmares_of_Meloen/devel/races/race_elemental.cfg:18
 #: Nightmares_of_Meloen/races/race_elemental.cfg:18
 msgid ""
 "The Elementals are the guardians of the World, spirits of the elements that "
@@ -70,17 +83,21 @@ msgid ""
 "and brutal, for as it is said, there is nothing more ruthless than nature."
 msgstr ""
 
+#. [race]: id=DEVEL_insect
 #. [race]: id=insect
+#: Nightmares_of_Meloen/devel/races/race_insect.cfg:9
 #: Nightmares_of_Meloen/races/race_insect.cfg:9
 msgid "race^Insect"
 msgstr ""
 
-#. [race]: id=insect
-#: Nightmares_of_Meloen/races/race_insect.cfg:10
+#. [race]: id=DEVEL_insect
+#: Nightmares_of_Meloen/devel/races/race_insect.cfg:10
 msgid "plural race^Insects"
 msgstr ""
 
+#. [race]: id=DEVEL_insect
 #. [race]: id=insect
+#: Nightmares_of_Meloen/devel/races/race_insect.cfg:13
 #: Nightmares_of_Meloen/races/race_insect.cfg:13
 msgid ""
 "One insect is nothing, a dozen of them just cause a nuisance, a swarm tends "
@@ -89,17 +106,21 @@ msgid ""
 "poison, plague or drain insects."
 msgstr ""
 
+#. [race]: id=DEVEL_nightmare
 #. [race]: id=nightmare
+#: Nightmares_of_Meloen/devel/races/race_nightmare.cfg:8
 #: Nightmares_of_Meloen/races/race_nightmare.cfg:8
 msgid "race^Nightmare"
 msgstr ""
 
-#. [race]: id=nightmare
-#: Nightmares_of_Meloen/races/race_nightmare.cfg:9
+#. [race]: id=DEVEL_nightmare
+#: Nightmares_of_Meloen/devel/races/race_nightmare.cfg:9
 msgid "plural_ race^Nightmares"
 msgstr ""
 
+#. [race]: id=DEVEL_nightmare
 #. [race]: id=nightmare
+#: Nightmares_of_Meloen/devel/races/race_nightmare.cfg:12
 #: Nightmares_of_Meloen/races/race_nightmare.cfg:12
 msgid ""
 "Meloen caused these... things, to incarnate the very fears gnawing at her "
@@ -111,72 +132,92 @@ msgstr ""
 
 #. [trait]: id=ruby
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:9
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:9
 msgid "ruby"
 msgstr ""
 
 #. [trait]: id=ruby
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:10
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:10
 msgid "female^ruby"
 msgstr ""
 
 #. [trait]: id=diamond
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:28
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:28
 msgid "diamond"
 msgstr ""
 
 #. [trait]: id=diamond
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:29
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:29
 msgid "female^diamond"
 msgstr ""
 
 #. [trait]: id=sapphire
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:46
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:46
 msgid "sapphire"
 msgstr ""
 
 #. [trait]: id=sapphire
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:47
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:47
 msgid "female^sapphire"
 msgstr ""
 
 #. [trait]: id=emerald
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:60
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:60
 msgid "emerald"
 msgstr ""
 
 #. [trait]: id=emerald
 #: Nightmares_of_Meloen/traits/trait_elemental.cfg:61
+#: Nightmares_of_Meloen/devel/traits/trait_elemental.cfg:61
 msgid "female^emerald"
 msgstr ""
 
 #. [trait]: id=insect
+#. [trait]: id=DEVEL_insect
 #: Nightmares_of_Meloen/traits/trait_insect.cfg:10
+#: Nightmares_of_Meloen/devel/traits/trait_insect.cfg:10
 msgid "insect"
 msgstr ""
 
 #. [trait]: id=nightmare
 #. [trait]: id=insect
+#. [trait]: id=DEVEL_nightmare
+#. [trait]: id=DEVEL_insect
 #: Nightmares_of_Meloen/traits/trait_nightmare.cfg:9
 #: Nightmares_of_Meloen/traits/trait_insect.cfg:11
+#: Nightmares_of_Meloen/devel/traits/trait_nightmare.cfg:9
+#: Nightmares_of_Meloen/devel/traits/trait_insect.cfg:11
 msgid "Immune to drain, poison and plague"
 msgstr ""
 
 #. [trait]: id=nightmare
+#. [trait]: id=DEVEL_nightmare
 #: Nightmares_of_Meloen/traits/trait_nightmare.cfg:8
+#: Nightmares_of_Meloen/devel/traits/trait_nightmare.cfg:8
 msgid "nightmare"
 msgstr ""
 
 #. [unit_type]: id=Black Cat, race=aberration
+#. [unit_type]: id=DEVEL_Black Cat, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_bc_01_black_cat.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_01_black_cat.cfg:6
 msgid "Black Cat"
 msgstr ""
 
-#. [unit_type]: id=Calamity, race=aberration
 #. [unit_type]: id=Black Cat, race=aberration
-#. [unit_type]: id=Jinx Beast, race=aberration
-#: Nightmares_of_Meloen/units/aberrations/ab_bc_03_calamity.cfg:22
+#. [unit_type]: id=DEVEL_Calamity, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Black Cat, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Jinx Beast, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_bc_01_black_cat.cfg:22
-#: Nightmares_of_Meloen/units/aberrations/ab_bc_02_jinx_beast.cfg:22
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_03_calamity.cfg:22
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_01_black_cat.cfg:22
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_02_jinx_beast.cfg:22
 msgid ""
 "Fate can be treacherous at times, as quick to offer you a present as to turn "
 "it into a burden. When Meloen succeeded in brushing the knowlegde of magic's "
@@ -193,33 +234,48 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: Nightmares_of_Meloen/units/aberrations/ab_bc_03_calamity.cfg:44
+#: Nightmares_of_Meloen/units/aberrations/ab_bc_03_calamity.cfg:47
 #: Nightmares_of_Meloen/units/aberrations/ab_bc_01_black_cat.cfg:42
-#: Nightmares_of_Meloen/units/aberrations/ab_bc_02_jinx_beast.cfg:42
+#: Nightmares_of_Meloen/units/aberrations/ab_bc_02_jinx_beast.cfg:44
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_03_calamity.cfg:44
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_01_black_cat.cfg:42
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_02_jinx_beast.cfg:42
 msgid "ill omen"
 msgstr ""
 
 #. [unit_type]: id=Jinx Beast, race=aberration
+#. [unit_type]: id=DEVEL_Jinx Beast, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_bc_02_jinx_beast.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_02_jinx_beast.cfg:6
 msgid "Jinx Beast"
 msgstr ""
 
 #. [unit_type]: id=Calamity, race=aberration
+#. [unit_type]: id=DEVEL_Calamity, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_bc_03_calamity.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_bc_03_calamity.cfg:6
 msgid "Calamity"
 msgstr ""
 
 #. [unit_type]: id=Scornful Watcher, race=aberration
+#. [unit_type]: id=DEVEL_Scornful Watcher, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_01_scornful_watcher.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_01_scornful_watcher.cfg:6
 msgid "Scornful Watcher"
 msgstr ""
 
 #. [unit_type]: id=Spiteful Watcher, race=aberration
 #. [unit_type]: id=Inquisitor, race=aberration
 #. [unit_type]: id=Scornful Watcher, race=aberration
+#. [unit_type]: id=DEVEL_Spiteful Watcher, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Inquisitor, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Scornful Watcher, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_02_spiteful_watcher.cfg:21
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_03_inquisitor.cfg:21
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_01_scornful_watcher.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_02_spiteful_watcher.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_03_inquisitor.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_01_scornful_watcher.cfg:21
 msgid ""
 "Bad dreams after bad dreams, growing to nightmares, Meloen fell into a "
 "paranoid dementia, thinking to be judged for her misdeeds and revived her "
@@ -232,28 +288,41 @@ msgstr ""
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_02_spiteful_watcher.cfg:32
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_03_inquisitor.cfg:34
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_01_scornful_watcher.cfg:40
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_02_spiteful_watcher.cfg:32
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_03_inquisitor.cfg:34
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_01_scornful_watcher.cfg:40
 msgid "kick"
 msgstr ""
 
+#. [attack]
 #. [attack]: type=arcane_focus
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_02_spiteful_watcher.cfg:41
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_03_inquisitor.cfg:43
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_01_scornful_watcher.cfg:49
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_02_spiteful_watcher.cfg:41
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_03_inquisitor.cfg:43
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_01_scornful_watcher.cfg:49
 msgid "stare"
 msgstr ""
 
 #. [unit_type]: id=Spiteful Watcher, race=aberration
+#. [unit_type]: id=DEVEL_Spiteful Watcher, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_02_spiteful_watcher.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_02_spiteful_watcher.cfg:6
 msgid "Spiteful Watcher"
 msgstr ""
 
 #. [unit_type]: id=Inquisitor, race=aberration
+#. [unit_type]: id=DEVEL_Inquisitor, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_sw_03_inquisitor.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_sw_03_inquisitor.cfg:6
 msgid "Inquisitor"
 msgstr ""
 
 #. [unit_type]: id=Unhatched, race=aberration
+#. [unit_type]: id=DEVEL_Unhatched, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_un_01_unhatched.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_01_unhatched.cfg:6
 msgid "Unhatched"
 msgstr ""
 
@@ -262,54 +331,84 @@ msgstr ""
 #. [unit_type]: id=Angry One, race=aberration
 #. [unit_type]: id=Unhatched, race=aberration
 #. [unit_type]: id=Rash One, race=aberration
+#. [unit_type]: id=DEVEL_Reckless One, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Raging One, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Angry One, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Unhatched, race=DEVEL_aberration
+#. [unit_type]: id=DEVEL_Rash One, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_un_03b_reckless_one.cfg:21
 #: Nightmares_of_Meloen/units/aberrations/ab_un_03_raging_one.cfg:21
 #: Nightmares_of_Meloen/units/aberrations/ab_un_02_angry_one.cfg:21
 #: Nightmares_of_Meloen/units/aberrations/ab_un_01_unhatched.cfg:21
 #: Nightmares_of_Meloen/units/aberrations/ab_un_02b_rash_one.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_03b_reckless_one.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_03_raging_one.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_02_angry_one.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_01_unhatched.cfg:21
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_02b_rash_one.cfg:21
 msgid ""
-"These hideous monsters came from the very first fear of Meloen : to mother a "
+"These hideous monsters came from the very first fear of Meloen: to mother a "
 "physically or mentally ill child. Not quite formed yet, the unhatched partly "
 "breaks the shell with its powerful legs, then its naturally agressive "
 "instinct guide it to charge and complete its hatch onto foes."
 msgstr ""
 
 #. [unit_type]: id=Angry One, race=aberration
+#. [unit_type]: id=DEVEL_Angry One, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_un_02_angry_one.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_02_angry_one.cfg:6
 msgid "Angry One"
 msgstr ""
 
 #. [unit_type]: id=Rash One, race=aberration
+#. [unit_type]: id=DEVEL_Rash One, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_un_02b_rash_one.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_02b_rash_one.cfg:6
 msgid "Rash One"
 msgstr ""
 
 #. [unit_type]: id=Raging One, race=aberration
+#. [unit_type]: id=DEVEL_Raging One, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_un_03_raging_one.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_03_raging_one.cfg:6
 msgid "Raging One"
 msgstr ""
 
 #. [unit_type]: id=Reckless One, race=aberration
+#. [unit_type]: id=DEVEL_Reckless One, race=DEVEL_aberration
 #: Nightmares_of_Meloen/units/aberrations/ab_un_03b_reckless_one.cfg:6
+#: Nightmares_of_Meloen/devel/units/aberrations/ab_un_03b_reckless_one.cfg:6
 msgid "Reckless One"
 msgstr ""
 
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:23
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:23
 msgid "Tornado Form of Unstable Elemental"
 msgstr ""
 
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:34
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:97
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:162
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:237
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:393
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:457
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:98
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:163
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:238
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:394
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:458
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:28
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:91
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:156
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:231
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:387
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:451
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:34
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:97
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:162
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:237
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:393
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:457
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:28
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:91
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:156
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:231
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:387
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:451
 msgid ""
 "Despising herself, self-doubting, Meloen felt a strong distrust of her "
 "surroundings. Panarbori, the spirit of nature originally made to flesh by "
@@ -326,191 +425,247 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:43
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:44
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:37
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:43
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:37
 msgid "gust"
 msgstr ""
 
 #. [attack]: type=blade
-#: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:46
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:46
 msgid "air_blast"
 msgstr ""
 
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:86
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:86
 msgid "Bramble Form of Unstable Elemental"
 msgstr ""
 
 #. [attack]: type=impact
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:106
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:107
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:100
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:106
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:100
 msgid "crush"
 msgstr ""
 
 #. [attack]: type=impact
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:109
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:109
 msgid "ensnare"
 msgstr ""
 
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:151
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:151
 msgid "Quake Form of Unstable Elemental"
 msgstr ""
 
 #. [attack]: type=impact
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:171
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:172
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:165
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:171
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:165
 msgid "shatter"
 msgstr ""
 
 #. [attack]: type=impact
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:180
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:181
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:174
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:180
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:174
 msgid "boulder"
 msgstr ""
 
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:226
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:226
 msgid "Whirlpool Form of Unstable Elemental"
 msgstr ""
 
 #. [attack]: type=blade
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:289
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:290
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:283
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:289
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:283
 msgid "billow"
 msgstr ""
 
 #. [attack]: type=impact
-#: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:292
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:292
 msgid "water_blast"
 msgstr ""
 
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:382
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:382
 msgid "Sandstorm Form of Unstable Elemental"
 msgstr ""
 
 #. [attack]: type=blade
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:402
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:403
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:396
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:402
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:396
 msgid "devil dust"
 msgstr ""
 
 #. [attack]: type=blade
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:411
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:412
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:405
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:411
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:405
 msgid "sand blast"
 msgstr ""
 
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:446
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:446
 msgid "Frost Form of Unstable Elemental"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:466
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:467
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:460
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:466
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:460
 msgid "deathblow"
 msgstr ""
 
 #. [attack]: type=cold
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:475
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:476
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:469
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:475
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:469
 msgid "ice breath"
 msgstr ""
 
 #. [option]
 #. [unit_type]: id=Unstable Elemental
+#. [unit_type]: id=DEVEL_Unstable Elemental
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:13
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:520
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:13
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:520
 msgid "Unstable Elemental"
 msgstr ""
 
 #. [unit_type]: id=unstable_tornado
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:568
-msgid "Unstable Elemental - Tornado Form"
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:568
+msgid "Unstable Elemental — Tornado Form"
 msgstr ""
 
 #. [unit_type]: id=unstable_bramble
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:574
-msgid "Unstable Elemental - Bramble Form"
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:574
+msgid "Unstable Elemental — Bramble Form"
 msgstr ""
 
 #. [unit_type]: id=unstable_quake
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:580
-msgid "Unstable Elemental - Quake Form"
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:580
+msgid "Unstable Elemental — Quake Form"
 msgstr ""
 
 #. [unit_type]: id=unstable_whirlpool
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:586
-msgid "Unstable Elemental - Whirlpool Form"
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:586
+msgid "Unstable Elemental — Whirlpool Form"
 msgstr ""
 
 #. [unit_type]: id=unstable_sandstorm
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:592
-msgid "Unstable Elemental - Sandstorm Form"
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:592
+msgid "Unstable Elemental — Sandstorm Form"
 msgstr ""
 
 #. [unit_type]: id=unstable_frost
 #: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:598
-msgid "Unstable Elemental - Frost Form"
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_01_unstable_elemental.cfg:598
+msgid "Unstable Elemental — Frost Form"
 msgstr ""
 
 #: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:29
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:29
 msgid "Tornado Form of Nature Wrath"
 msgstr ""
 
 #. [attack]: type=blade
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:52
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:53
+#: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:46
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:52
 msgid "air blast"
 msgstr ""
 
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:92
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:93
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:92
 msgid "Bramble Form of Nature Wrath"
 msgstr ""
 
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:157
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:158
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:157
 msgid "Quake Form of Nature Wrath"
 msgstr ""
 
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:232
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:233
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:232
 msgid "Whirlpool Form of Nature Wrath"
 msgstr ""
 
 #. [attack]: type=impact
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:298
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:299
+#: Nightmares_of_Meloen/units/elementals/el_ue_01_unstable_elemental.cfg:292
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:298
 msgid "water blast"
 msgstr ""
 
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:388
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:389
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:388
 msgid "Sandstorm Form of Nature Wrath"
 msgstr ""
 
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:452
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:453
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:452
 msgid "Frost Form of Nature Wrath"
 msgstr ""
 
 #. [option]
 #. [unit_type]: id=Nature Wrath
+#. [unit_type]: id=DEVEL_Nature Wrath
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:19
-#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:526
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:527
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:19
+#: Nightmares_of_Meloen/devel/units/elementals/el_ue_02_nature_wrath.cfg:526
 msgid "Nature Wrath"
 msgstr ""
 
 #. [variation]: id=Creepers, race=insect
 #. [unit_type]: id=Creepers, race=insect
+#. [variation]: id=DEVEL_Creepers, race=DEVEL_insect
+#. [unit_type]: id=DEVEL_Creepers, race=DEVEL_insect
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:6
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:86
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:137
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:6
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:86
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:137
 msgid "Creepers"
 msgstr ""
 
 #. [variation]: id=Creepers, race=insect
 #. [unit_type]: id=Creepers, race=insect
+#. [variation]: id=DEVEL_Creepers, race=DEVEL_insect
+#. [unit_type]: id=DEVEL_Creepers, race=DEVEL_insect
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:23
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:103
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:154
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:23
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:103
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:154
 msgid ""
 "These degenerated insects group with each other to raid living beings in an "
 "irrationally aggressive way. A significant amount of reports from farmers "
 "states about clouds of bees wreaking havoc into their sheptels.\n"
 "\n"
-"Note : Isolated creepers are no harm, but large bands can be a threat to any "
+"Note: Isolated creepers are no harm, but large bands can be a threat to any "
 "creatures."
 msgstr ""
 
@@ -518,20 +673,31 @@ msgstr ""
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:72
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:122
 #: Nightmares_of_Meloen/units/insects/in_cr_00_creepers.cfg:175
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:72
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:122
+#: Nightmares_of_Meloen/devel/units/insects/in_cr_00_creepers.cfg:175
 msgid "sting"
 msgstr ""
 
 #. [unit_type]: id=Howling Darkness, race=nightmare
+#. [unit_type]: id=DEVEL_Howling Darkness, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_01_howling_darkness.cfg:6
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_01_howling_darkness.cfg:6
 msgid "Howling Darkness"
 msgstr ""
 
 #. [unit_type]: id=Cloud of Gloom, race=nightmare
 #. [unit_type]: id=Eternal Night, race=nightmare
 #. [unit_type]: id=Howling Darkness, race=nightmare
+#. [unit_type]: id=DEVEL_Cloud of Gloom, race=DEVEL_nightmare
+#. [unit_type]: id=DEVEL_Eternal Night, race=DEVEL_nightmare
+#. [unit_type]: id=DEVEL_Howling Darkness, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:21
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_03_eternal_night.cfg:22
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_01_howling_darkness.cfg:21
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:21
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_03_eternal_night.cfg:22
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_01_howling_darkness.cfg:21
 msgid "incomplete"
 msgstr ""
 
@@ -539,36 +705,49 @@ msgstr ""
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:49
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_03_eternal_night.cfg:51
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_01_howling_darkness.cfg:36
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:49
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_03_eternal_night.cfg:51
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_01_howling_darkness.cfg:36
 msgid "howl"
 msgstr ""
 
 #. [unit_type]: id=Cloud of Gloom, race=nightmare
+#. [unit_type]: id=DEVEL_Cloud of Gloom, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:6
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:6
 msgid "Cloud of Gloom"
 msgstr ""
 
 #. [attack]: type=cold
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:37
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_03_eternal_night.cfg:38
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:37
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_03_eternal_night.cfg:38
 msgid "cold aura"
 msgstr ""
 
 #. [unit_type]: id=Eternal Night, race=nightmare
+#. [unit_type]: id=DEVEL_Eternal Night, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_hd_03_eternal_night.cfg:6
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_hd_03_eternal_night.cfg:6
 msgid "Eternal Night"
 msgstr ""
 
 #. [unit_type]: id=Life Thief, race=nightmare
+#. [unit_type]: id=DEVEL_Life Thief, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_lt_01_life_thief.cfg:6
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_01_life_thief.cfg:6
 msgid "Life Thief"
 msgstr ""
 
 #. [unit_type]: id=Life Thief, race=nightmare
-#. [unit_type]: id=Soul Snatcher, race=nightmare
-#. [unit_type]: id=Death Spectre, race=nightmare
+#. [unit_type]: id=DEVEL_Life Thief, race=DEVEL_nightmare
+#. [unit_type]: id=DEVEL_Soul Snatcher, race=DEVEL_nightmare
+#. [unit_type]: id=DEVEL_Death Spectre, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_lt_01_life_thief.cfg:22
-#: Nightmares_of_Meloen/units/nightmares/ni_lt_02_soul_snatcher.cfg:22
-#: Nightmares_of_Meloen/units/nightmares/ni_lt_03_death_spectre.cfg:22
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_01_life_thief.cfg:22
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_02_soul_snatcher.cfg:22
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_03_death_spectre.cfg:22
 msgid ""
 "In her moments of happiness, Meloen enjoyed gazing at butterflies. In these "
 "rare moments of meditation she also got conscious of how much they were "
@@ -582,18 +761,25 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Nightmares_of_Meloen/units/nightmares/ni_lt_01_life_thief.cfg:33
-#: Nightmares_of_Meloen/units/nightmares/ni_lt_02_soul_snatcher.cfg:33
-#: Nightmares_of_Meloen/units/nightmares/ni_lt_03_death_spectre.cfg:35
+#: Nightmares_of_Meloen/units/nightmares/ni_lt_02_soul_snatcher.cfg:35
+#: Nightmares_of_Meloen/units/nightmares/ni_lt_03_death_spectre.cfg:38
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_01_life_thief.cfg:33
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_02_soul_snatcher.cfg:33
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_03_death_spectre.cfg:35
 msgid "soul grasp"
 msgstr ""
 
 #. [unit_type]: id=Soul Snatcher, race=nightmare
+#. [unit_type]: id=DEVEL_Soul Snatcher, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_lt_02_soul_snatcher.cfg:6
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_02_soul_snatcher.cfg:6
 msgid "Soul Snatcher"
 msgstr ""
 
 #. [unit_type]: id=Death Spectre, race=nightmare
+#. [unit_type]: id=DEVEL_Death Spectre, race=DEVEL_nightmare
 #: Nightmares_of_Meloen/units/nightmares/ni_lt_03_death_spectre.cfg:6
+#: Nightmares_of_Meloen/devel/units/nightmares/ni_lt_03_death_spectre.cfg:6
 msgid "Death Spectre"
 msgstr ""
 
@@ -603,6 +789,9 @@ msgstr ""
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:8
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:87
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:172
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:8
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:87
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:172
 msgid "Max HP bonus +1, regenerate +2"
 msgstr ""
 
@@ -614,28 +803,38 @@ msgstr ""
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:131
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:216
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:297
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:50
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:131
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:216
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:297
 msgid "Max HP bonus +1, damage +1"
 msgstr ""
 
 #. [advancement]: id=amla_creep7
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:253
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:253
 msgid "Max HP bonus +1, regenerate +8"
 msgstr ""
 
 #. [advancement]: id=amla_creep_above
 #: Nightmares_of_Meloen/utils/amla_creepers.cfg:334
+#: Nightmares_of_Meloen/devel/utils/amla_creepers.cfg:334
 msgid "Max HP bonus +3"
 msgstr ""
 
 #. [dummy]: id=weapon_arcane_focus
 #: Nightmares_of_Meloen/utils/arcane_focus.cfg:8
 #: Nightmares_of_Meloen/utils/arcane_focus.cfg:9
+#: Nightmares_of_Meloen/devel/utils/arcane_focus.cfg:8
+#: Nightmares_of_Meloen/devel/utils/arcane_focus.cfg:9
 msgid "arcane focus"
 msgstr ""
 
 #. [dummy]: id=weapon_arcane_focus
 #: Nightmares_of_Meloen/utils/arcane_focus.cfg:11
 #: Nightmares_of_Meloen/utils/arcane_focus.cfg:13
+#: Nightmares_of_Meloen/devel/utils/arcane_focus.cfg:11
+#: Nightmares_of_Meloen/devel/utils/arcane_focus.cfg:13
 msgid ""
 "Arcane focus:\n"
 "The opposite of arcane resistance is used for damage calculation. Thus, this "
@@ -643,6 +842,7 @@ msgid ""
 msgstr ""
 
 #: Nightmares_of_Meloen/utils/arcane_focus.cfg:71
+#: Nightmares_of_Meloen/devel/utils/arcane_focus.cfg:71
 msgid ""
 " A lot of creatures of the world of Wesnoth are partly animated through "
 "magic. These creature don't perceive the world only with their reason and "
@@ -650,36 +850,34 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=band
-#: Nightmares_of_Meloen/utils/band.cfg:7
+#: Nightmares_of_Meloen/devel/utils/band.cfg:7
 msgid "band-"
 msgstr ""
 
 #. [leadership]: id=band
-#: Nightmares_of_Meloen/utils/band.cfg:8
+#: Nightmares_of_Meloen/devel/utils/band.cfg:8
 msgid "Band-"
 msgstr ""
 
-#. [terrain_type]
-#: Nightmares_of_Meloen/utils/glowing_rune_terrains.cfg:7
-msgid "Sinister Rune - Castle"
-msgstr ""
-
-#. [terrain_type]
-#: Nightmares_of_Meloen/utils/glowing_rune_terrains.cfg:17
-msgid "Sinister Rune - Keep"
-msgstr ""
-
 #. [leadership]: id=horror
+#. [leadership]: id=DEVEL_horror
 #: Nightmares_of_Meloen/utils/horror.cfg:8
 #: Nightmares_of_Meloen/utils/horror.cfg:79
 #: Nightmares_of_Meloen/utils/horror.cfg:171
+#: Nightmares_of_Meloen/devel/utils/horror.cfg:8
+#: Nightmares_of_Meloen/devel/utils/horror.cfg:79
+#: Nightmares_of_Meloen/devel/utils/horror.cfg:171
 msgid "horror"
 msgstr ""
 
 #. [leadership]: id=horror
+#. [leadership]: id=DEVEL_horror
 #: Nightmares_of_Meloen/utils/horror.cfg:12
 #: Nightmares_of_Meloen/utils/horror.cfg:83
 #: Nightmares_of_Meloen/utils/horror.cfg:175
+#: Nightmares_of_Meloen/devel/utils/horror.cfg:12
+#: Nightmares_of_Meloen/devel/utils/horror.cfg:83
+#: Nightmares_of_Meloen/devel/utils/horror.cfg:175
 msgid ""
 "Horror:\n"
 "This unit can frighten living enemy units that are next to it, making them "
@@ -692,23 +890,28 @@ msgid ""
 msgstr ""
 
 #: Nightmares_of_Meloen/utils/horror.cfg:280
+#: Nightmares_of_Meloen/devel/utils/horror.cfg:280
 msgid ""
 " The horror skill of this unit scare ennemy units next to it so they deal "
 "less damage in combat, though this only applies to living units."
 msgstr ""
 
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:5
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:5
 msgid "Before reading, let other players know so they don't get impatient."
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:10
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:10
 msgid "How to play"
 msgstr ""
 
 #. [message]
 #: Nightmares_of_Meloen/utils/utility_menu.cfg:18
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:13
+#: Nightmares_of_Meloen/devel/utils/utility_menu.cfg:18
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:13
 msgid "Pick a Topic"
 msgstr ""
 
@@ -716,6 +919,8 @@ msgstr ""
 #. [message]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:16
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:35
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:16
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:35
 msgid "How to play Nightmares of Meloen"
 msgstr ""
 
@@ -723,124 +928,151 @@ msgstr ""
 #. [message]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:22
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:101
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:22
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:101
 msgid "How to play against Nightmares of Meloen"
 msgstr ""
 
 #. [message]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:36
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:102
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:36
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:102
 msgid "You can read this via the browser at the address"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:40
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:106
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:40
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:106
 msgid "General Strategy"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:47
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:47
 msgid "Against Loyalists"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:54
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:54
 msgid "Against Rebels"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:61
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:61
 msgid "Against Northerners"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:68
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:68
 msgid "Against Undead"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:75
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:75
 msgid "Against Knalgans"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:82
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:82
 msgid "Against Drakes"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:89
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:89
 msgid "Against Nightmares"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:113
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:113
 msgid "With Loyalists"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:120
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:120
 msgid "With Rebels"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:127
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:127
 msgid "With Northeners"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:134
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:134
 msgid "With Undead"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:141
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:141
 msgid "With Knalgans"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/how_to_play.cfg:148
+#: Nightmares_of_Meloen/devel/utils/how_to_play.cfg:148
 msgid "With Drakes"
 msgstr ""
 
 #. [dummy]: id=weapon_special_jinx
 #: Nightmares_of_Meloen/utils/jinx.cfg:9
 #: Nightmares_of_Meloen/utils/jinx.cfg:10
+#: Nightmares_of_Meloen/devel/utils/jinx.cfg:9
+#: Nightmares_of_Meloen/devel/utils/jinx.cfg:10
 msgid "jinx"
 msgstr ""
 
 #. [dummy]: id=weapon_special_jinx
-#: Nightmares_of_Meloen/utils/jinx.cfg:13
-#: Nightmares_of_Meloen/utils/jinx.cfg:16
+#: Nightmares_of_Meloen/devel/utils/jinx.cfg:13
+#: Nightmares_of_Meloen/devel/utils/jinx.cfg:16
 msgid ""
-"Jinx :\n"
+"Jinx:\n"
 "Curses the hit unit. The cursed unit gets a 15% defense penalty on every "
-"terrain until it is cured by a healer or in a village.\n"
-"Does not affect undeads, and the defense value can't go lower than 10%."
+"terrain until it is regenerating, is cured by a healer or in a village.\n"
+"Does not affect undeads, and the defense value can't go lower than 20%."
 msgstr ""
 
 #: Nightmares_of_Meloen/utils/jinx.cfg:54
 #: Nightmares_of_Meloen/utils/jinx.cfg:102
+#: Nightmares_of_Meloen/devel/utils/jinx.cfg:54
+#: Nightmares_of_Meloen/devel/utils/jinx.cfg:102
 msgid "cursed"
 msgstr ""
 
 #. [regenerate]: id=regen_{THAT_MUCH}
 #: Nightmares_of_Meloen/utils/regen.cfg:7
+#: Nightmares_of_Meloen/devel/utils/regen.cfg:7
 msgid "regen+"
 msgstr ""
 
 #. [regenerate]: id=regen_{THAT_MUCH}
 #: Nightmares_of_Meloen/utils/regen.cfg:8
+#: Nightmares_of_Meloen/devel/utils/regen.cfg:8
 msgid "Regenerate + "
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:5
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:5
 msgid "Reveal elementals' variations"
 msgstr ""
 
 #. [message]
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:8
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:8
 msgid ""
 "When playing with Nightmares of Meloen for the first time, it may happen "
 "that you don't have the different forms in the help index."
@@ -848,6 +1080,7 @@ msgstr ""
 
 #. [message]
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:9
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:9
 msgid ""
 "To solve this problem, click on one of the items below to populate the help "
 "index with the corresponding Elemental's variations."
@@ -855,26 +1088,31 @@ msgstr ""
 
 #. [message]
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:11
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:11
 msgid "Pick a unit line"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:13
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:13
 msgid "(level 1)"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/reveal_variations.cfg:19
+#: Nightmares_of_Meloen/devel/utils/reveal_variations.cfg:19
 msgid "(level 2)"
 msgstr ""
 
 #. [option]
 #: Nightmares_of_Meloen/utils/switch_ai.cfg:5
+#: Nightmares_of_Meloen/devel/utils/switch_ai.cfg:5
 msgid "Change AI"
 msgstr ""
 
 #. [message]
 #: Nightmares_of_Meloen/utils/switch_ai.cfg:17
+#: Nightmares_of_Meloen/devel/utils/switch_ai.cfg:17
 msgid ""
 "The Nightmares of Meloen come with a customized AI that uses faction's "
 "abilities and specials better than the default AI. You can activate it "
@@ -883,66 +1121,70 @@ msgstr ""
 
 #. [terrain_link]: id=terrain_link
 #: Nightmares_of_Meloen/utils/terrain_link.cfg:7
+#: Nightmares_of_Meloen/devel/utils/terrain_link.cfg:7
 msgid "terrain link"
 msgstr ""
 
 #. [terrain_link]: id=terrain_link
 #: Nightmares_of_Meloen/utils/terrain_link.cfg:22
+#: Nightmares_of_Meloen/devel/utils/terrain_link.cfg:22
 msgid ""
-"Terrain link :\n"
+"Terrain link:\n"
 "That unit mutates depending on the terrain you're moving on.\n"
 "\n"
-"Tornado form - from plains, castles, chasms, and almost all villages. Very "
+"Tornado form — from plains, castles, chasms, and almost all villages. Very "
 "mobile unit, low resistance, weak attack.\n"
 "\n"
-"Quake form - from caves, hills, and mountains. Low movement and good "
+"Quake form — from caves, hills, and mountains. Low movement and good "
 "resistance.\n"
 "\n"
-"Bramble form - from forests and mushrooms groves. Low movement, low defense, "
+"Bramble form — from forests and mushrooms groves. Low movement, low defense, "
 "good resistance except to fire, can slow enemies.\n"
 "\n"
-"Whirlpool form - from swamps, fords, shallow and deep water. High movement "
+"Whirlpool form — from swamps, fords, shallow and deep water. High movement "
 "only in water, medium to low resistance.\n"
 "\n"
-"Sandstorm form - from sand based terrain. High mobility on sand like "
+"Sandstorm form — from sand based terrain. High mobility on sand like "
 "terrain, medium to low resistance.\n"
 "\n"
-"Frost form - from snow based terrain. Low mobility, good resistance except "
-"to fire and impact, can slow ennemies."
+"Frost form — from snow based terrain. Low mobility, good resistance except "
+"to fire and impact, can slow enemies."
 msgstr ""
 
 #: Nightmares_of_Meloen/utils/terrain_link.cfg:434
+#: Nightmares_of_Meloen/devel/utils/terrain_link.cfg:434
 msgid ""
 " That unit mutates depending on the terrain she is moving to, taking a form "
 "that result in better defense and movement."
 msgstr ""
 
 #. [upkeep]: id=upkeep_band
+#. [upkeep]: id=DEVEL_upkeep_band
 #: Nightmares_of_Meloen/utils/upkeep_band.cfg:6
+#: Nightmares_of_Meloen/devel/utils/upkeep_band.cfg:6
 msgid "upkeep band"
 msgstr ""
 
 #. [upkeep]: id=upkeep_band
+#. [upkeep]: id=DEVEL_upkeep_band
 #: Nightmares_of_Meloen/utils/upkeep_band.cfg:8
+#: Nightmares_of_Meloen/devel/utils/upkeep_band.cfg:8
 msgid ""
-"Upkeep Band :\n"
+"Upkeep Band:\n"
 "You pay an additional 1 gold upkeep for each band of creature having the "
 "banding ability under your control. A unit with the banding ability, when "
 "alone, is also considered as a band (of 1 unit)."
 msgstr ""
 
 #: Nightmares_of_Meloen/utils/upkeep_band.cfg:210
-msgid "-1 gold"
+#: Nightmares_of_Meloen/devel/utils/upkeep_band.cfg:210
+msgid "−1 gold"
 msgstr ""
 
 #. [set_menu_item]: id=NoM_utilities
 #: Nightmares_of_Meloen/utils/utility_menu.cfg:10
+#: Nightmares_of_Meloen/devel/utils/utility_menu.cfg:10
 msgid "Nightmares of Meloen's utilities"
-msgstr ""
-
-#. [option]
-#: Nightmares_of_Meloen/utils/utility_menu.cfg:32
-msgid "Exit"
 msgstr ""
 
 #. [recruit]: type=Black Cat
@@ -950,11 +1192,11 @@ msgstr ""
 #. [recruit]: type=Howling Darkness
 #. [recruit]: type=Life Thief
 #. [recruit]: type=Unstable Elemental
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:34
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:40
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:46
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:52
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:58
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:34
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:40
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:46
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:52
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:58
 msgid "..."
 msgstr ""
 
@@ -963,16 +1205,16 @@ msgstr ""
 #. [recruit]: type=Howling Darkness
 #. [recruit]: type=Life Thief
 #. [recruit]: type=Unstable Elemental
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:35
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:41
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:47
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:53
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:59
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:35
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:41
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:47
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:53
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:59
 msgid "Odd, it doesn't seem to attack. I wonder if we can use it?"
 msgstr ""
 
 #. [recruit]: type=Ghoul
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:64
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:64
 msgid ""
 "I say, old sport! It looks like you've got a spot of bother. Well, chin up, "
 "I say! I'm sure we'll make a simply smashing team-up. We can sort this lot "
@@ -980,13 +1222,1878 @@ msgid ""
 msgstr ""
 
 #. [recruit]: type=Ghoul
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:65
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:65
 msgid "Have at thee, unholy abomin... wait, huh?"
 msgstr ""
 
 #. [recruit]: type=Dark Adept
-#: Nightmares_of_Meloen/utils/world_conquest.cfg:70
+#: Nightmares_of_Meloen/devel/utils/world_conquest.cfg:70
 msgid ""
 "You may not trust me or my reasons, but it seems you are not in a position "
 "to be choosy about your allies. Let me assist you and you just may survive."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:3
+msgid "General strategy against Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:5
+msgid ""
+"The faction of Nightmares of Meloen is chaotic (except <i>Creepers</i> and "
+"<i>Unstable Elemental</i> that are neutral). It is composed of quite fast "
+"units with many specials or abilities. For this reason, if you command a "
+"lawful faction you have to follow strictly the day/night cycle. They can hit "
+"quite hard at night but on the other hand they have several units with low "
+"resistance or low defense. So according to the recruitment you did, you "
+"should be able to counter with some result at your best time of the day."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:7
+msgid ""
+"The Nightmares of Meloen don't have particularly efficient units to hold on "
+"villages. Taking into account the high price of some of their units (<i>Life "
+"Thief</i>, <i>Howling Darkness</i>), you can try to win with your economy, "
+"getting their villages earlier, holding your villages longer, by preventing "
+"them to have enough gold to buy expensive units. They have some cheap units "
+"too, but depending on which faction you play, these sometimes lack of "
+"efficiency to hurt you."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:9
+msgid ""
+"<u>Unhatched:</u> as this unit will charge to inflict maximum damage, you "
+"should screen your ranged specialists so it can't reach them. To do so you "
+"might rely on different units according to its trait as each trait give it "
+"some resistance bonus for some damage type. If you succeed to have the "
+"<i>Unhatched</i> able to attack only on your melee fighters, it might decide "
+"to do so, but will most likely receive retaliation. Get ready to finish them "
+"on your turn if the time is right."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:11
+msgid ""
+"<u>Black Cat:</u> with its magical attack and the jinx special, the <i>Black "
+"Cat</i> is one of the first unit you may want to kill if you are not Undead. "
+"It benefits of high defense but her pretty bad resistances help to kill her "
+"in a minimum of strikes when your best time of the day has come. After it "
+"has hit you, <i>Unhatched</i>, <i>Life Thief</i> or <i>Scornful Watchers</i> "
+"will most likely follow to inflict heavy damage."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:13
+msgid ""
+"<u>Life Thief:</u> arcane melee with drains, we all know from those pesky "
+"<i>Ghosts</i> that units of this kind are not easy to handle. <i>Life "
+"Thieves</i> will be seen in any matchup but against Loyalists. Fight them "
+"with ranged fire or arcane, slow them or run away from them as they are "
+"rather slow. As their defense and their physical resistances are lower than "
+"the <i>Ghost</i>'s, countering them with any range unit is good enough to "
+"deal with its additional hitpoints. Even the usage of blade or pierce melee "
+"can be acceptable from high defense, if you fight under an advantageous time "
+"of day."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:15
+msgid ""
+"<u>Scornful Watcher:</u> his ranged attack turns arcane resistance into "
+"weakness. For this reason, he will be Loyalists worst enemy and will be seen "
+"in numbers against Knalgans or Northerners. Slow and weak, Nightmares will "
+"have to cover him with his tanks. Your ability to win will often be measured "
+"by your ability to clean your way to hit him."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:17
+msgid ""
+"<u>Howling Darkness:</u> as an expensive unit without melee attack, the "
+"<i>Howling Darkness</i> is an ideal target when you are countering, but as "
+"it is fast and skirmisher, go for hitting the unit when you have a good "
+"chance to kill or it will slip through your net. It will often be use to "
+"support <i>Unhatcheds</i> and <i>Life Thieves</i> on offense to reduce your "
+"retaliation and can be a threat itself at night especially against the cold "
+"fearing Drakes."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:19
+msgid ""
+"<u>Unstable Elemental:</u> this versatile unit can be used as a scout mostly "
+"in its tornado form that you can find in plain, road and castle. It will "
+"most likely never fight in this form and will prefer to move to hill or "
+"forest when he is ready to fight. Up to you to accept or not the challenge "
+"as it will be much slower in those forms. The <i>Unstable Elemental</i> most "
+"disturbing use is when it moves behind your lines and take a defending form "
+"(quake, bramble or eventually whirlpool), cutting your retreat. The slow "
+"ranged attack of the bramble form, obviously combines well with "
+"<i>Unhatched</i>'s charge at level 1 and berserk at level 2."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/default_general_strategy.cfg:21
+msgid ""
+"<u>Creepers:</u> if you are not playing a chaotic faction, this unit should "
+"not change much in your strategy. You should keep trying to catch units with "
+"more hitpoints at your best time of the day, so that you don't waste too "
+"much fire power to kill this cheap unit. If you are chaotic though, you may "
+"have to adapt in order to cope with those pests that can hit you when you "
+"are at your weakest. When attacking <i>Creepers</i> on melee, target the "
+"ones with few <i>Creepers</i> around so that you reduce the retaliation. "
+"When they form a chain, you can consider breaking it in two to double their "
+"upkeep."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:3
+msgid "Drakes vs Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:5
+msgid ""
+"If both teams were randomly picked, they will most probably be badly "
+"prepared for this very offensive match, but so you may, as the saurians "
+"you'll have picked early won't be your best weapons. The <i>Life Thief</i>, "
+"Nightmares best asset at attack, and the <i>Drake Burner</i>, your own "
+"nightmare killer, are both expensive recruits so each side would wait to "
+"know their opponent before recruiting them. So if the game is starting at "
+"dawn, it is very likely that the first night will be quite peaceful and you "
+"will have plenty of time to equip yourself in <i>Burners</i> for the next "
+"day."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:7
+msgid ""
+"<i>Burners</i> and <i>Life Thieves</i> are the best enemies and two of one "
+"kind can kill one of the other every turn at their best time of the day. It "
+"shows how crucial the dusk will be for your Drakes, so be ready to retreat "
+"in time. As you are at least as fast as the <i>Life Thief</i>, if Nightmares "
+"has fallen back too much at day, you will have a easy retreat. If he has "
+"stayed close to you to prepare counter, retreat using <i>Drake Fighters</i> "
+"to cover your <i>Burners</i> from the <i>Unhatcheds</i>. That strategy might "
+"fail if Nightmares succeed at trapping you with <i>Howling Darknesses</i>. "
+"That is the reason why, using your <i>Drake Fighters</i> on them at day is "
+"the second objective you have to meet to keep the match going."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:9
+msgid ""
+"Depending on the number of <i>Howling Darkness</i> turning to <i>Skirmisher</"
+"i> might be a decent alternative. Beside dealing free damage to the "
+"<i>Howling Darkness</i> when they are the most impetuous, the <i>Skirmisher</"
+"i> have additional benefits: dealing a lot of retaliation to not slippery "
+"<i>Unhatched</i>, getting high defense units that might requires Nightmares "
+"to get more <i>Black Cats</i>. On top of that, as saurians resist well "
+"<i>Life Thief</i>'s arcane, they can force Nightmares to turn to <i>Scornful "
+"Watchers</i> that are of not much use against your Drakes."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:11
+msgid ""
+"<u>Drake Burner:</u> he is <i>Life Thief</i>'s fieriest enemy. As you will "
+"definitely see many of them around, getting as much <i>Burners</i> as you "
+"can is a safe strategy. As only quick ones are truly faster than the <i>Life "
+"Thief</i>, when they can't reach any, they can also have a shot at the "
+"<i>Unhatched</i>. As both <i>Burner</i>'s advancement are awesome against "
+"Nightmares, you should try to level one."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:13
+msgid ""
+"<u>Drake Clasher:</u> due to his slowness and his price, the <i>Clasher</i> "
+"is not the best buy against Nightmares. You can however decide to get one if "
+"Nightmares haven't any <i>Howling Darkness</i> as it can retaliate the "
+"<i>Unhatcheds</i> charge with one of his two attacks depending on their "
+"trait. When <i>Howling Darknesses</i> are around, their mobility and their "
+"cold attack will be devastating to the <i>Clasher</i> with no chance of "
+"retaliation. You don't want them to have such easy kills."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:15
+msgid ""
+"<u>Drake Fighter:</u> the <i>Drake Fighter</i> is necessary to cover "
+"<i>Burners</i>' retreat at the end of the day as they will give maximum "
+"retaliation to <i>Unhatched</i>'s charge and they are relatively cheap. They "
+"should not however try to shield off the <i>Life Thief</i> as they won't be "
+"able to survive the whole night. When attacking, the <i>Drake Fighter</i> "
+"should focus on the <i>Howling Darkness</i>, the <i>Black Cat</i> or the "
+"<i>Unstable Elemental</i>, but don't forget his fire range can cheaply "
+"harass the opponent's <i>Life Thieves</i> if you have no better target."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:17
+msgid ""
+"<u>Drake Glider:</u> faster than the <i>Drake Fighter</i> with better "
+"defence and an impact damage type that can scare away the <i>Unhatched</i>, "
+"the <i>Drake Glider</i> can be used for holding off the Nightmares when "
+"<i>Burners</i> are retreating. During attack at day time, they will be "
+"useful mostly for trapping the Nightmares at dawn and prevent them from "
+"fleeing too easily. As they are not as efficient as the <i>Drake Fighter</i> "
+"at dealing damage to the <i>Howling Darkness</i> the role they can play is "
+"still secondary and you should not recruit too many of them."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:19
+msgid ""
+"<u>Saurian Augur:</u> the <i>Augur</i> with his low hitpoints and cold "
+"damage doesn't not play a big role in this matchup. He will have trouble "
+"getting away from the <i>Unhatched</i> and Drakes won't have really time to "
+"protect him. Because the damages dealt are so heavy, his healing skill is "
+"minored in interest. His cold ranged attack should be used on <i>Unhatched</"
+"i> or anything else that he can kill. You may take your chance and feed him "
+"with kills as at level 2, the <i>Soothsayer</i> will be able to cure "
+"<i>Black Cat</i>'s jinx."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/drakes.cfg:21
+msgid ""
+"<u>Saurian Skirmisher:</u> Depending on the number of <i>Howling Darkness</"
+"i> the <i>Skirmisher</i> might be a good choice for recruitment. Nearly as "
+"fast as them, doing free damage on melee, they beat them in price. However, "
+"due to Saurians' weakness on both cold and impact, keeping them alive might "
+"be a difficult task. Hence it is only possible if <i>Howling Darknesses</i> "
+"are enough to guarantee a target before <i>Skirmisher</i> dies."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:3
+msgid "Knalgan Alliance vs Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:5
+msgid ""
+"When you get the Knalgan Alliance against Nightmares, you will be in control "
+"of the game. Just recruiting <i>Dwarvish Fighters</i> or <i>Footpads</i> "
+"will already be a test of your opponent's skill at playing Nightmares. He "
+"will have to combine the most efficient use of his units with some well "
+"thought gamble with <i>Unhatched</i> to get a game to play. Add some "
+"<i>Dwarvish Thunderers</i> and a <i>Dwarvish Ulfserker</i> even the most "
+"seasoned Nightmares' players will have a hard time. "
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:7
+msgid ""
+"<u>Dwarvish Fighter:</u> with their dual blade/impact damage type, the "
+"<i>Dwarvish Fighters</i> are the purest anti-<i>Unhatched</i> units in the "
+"game, so get enough of them to control the <i>Unhatcheds</i>. When the time "
+"has come for you to attack, they will obviously be good at taking down "
+"anything around. Just make sure to keep them on good defense, when they have "
+"been cursed, they are still probably better sitting on their favorite "
+"terrain with a defense lowered to around 50% rather than running on worse "
+"terrain for cover. Hitting back the <i>Black Cat</i> who just cursed them is "
+"often the best they can do."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:9
+msgid ""
+"<u>Dwarvish Guardsman:</u> slow, expensive and with low damage, you can't "
+"make enough use of his pierce attack to recruit any of them. As the "
+"<i>Dwarvish Fighter</i> makes such a good job at countering the "
+"<i>Unhatched</i>, you won't need the <i>Dwarvish Guardsman</i>'s steadfast "
+"either."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:11
+msgid ""
+"<u>Dwarvish Thunderer:</u> his ranged attack, his good resistance and good "
+"hitpoints, the <i>Dwarvish Thunderer</i> is a good recruit. He will be "
+"mainly useful to stay in control at night when the Nightmares are pushing. "
+"When staying on mountain, he can stand well against <i>Unhatcheds</i> and "
+"has a chance to to massive retaliation on <i>Black Cats</i> or <i>Scornful "
+"Watchers</i>. His main offensive role will be to aim at <i>Life Thieves</i>, "
+"and if you meet many of these, the <i>Dwarvish Thunderer</i> will become a "
+"necessity."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:13
+msgid ""
+"<u>Dwarvish Ulfserker:</u> with his guaranteed safe kill on the <i>Howling "
+"Darkness</i> and great chance to kill <i>Black Cats</i> or <i>Scornful "
+"Watchers</i>, the <i>Ulfserker</i> is an obvious good recruit to get. "
+"However, he can get drained to death by the <i>Life Thief</i>. In some "
+"circumstances the <i>Unhatched</i> can also kill him, so always make sure "
+"you can cover him properly before attacking. If there are some <i>Creepers</"
+"i> around, remember that a group of four or five (depending on traits) of "
+"them has a good chance to kill a full health <i>Ulfserker</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:15
+msgid ""
+"<u>Footpad:</u> with his double impact attacks he is a very convenient unit "
+"to have against Nightmares. The <i>Footpad</i> can attack on range the "
+"<i>Unhatched</i> for free hit (he has good chance of hitting once has "
+"<i>Unhatched</i>'s defense is below 50% nearly everywhere), while his "
+"excellent defense, good hitpoints and impact melee makes it difficult for "
+"the <i>Unhatched</i> to handle him when pushing."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:17
+msgid ""
+"<u>Gryphon Rider:</u> while the <i>Gryphon Rider</i> is an awesome offensive "
+"unit, it might have a hard time when fighting Nightmares. He can easily be "
+"trapped by the <i>Unstable Elemental</i> or the <i>Howling Darkness</i>, "
+"which could potentially hurt him a lot due to his impact weakness. Even if "
+"it does tremendous retaliation on <i>Unhatched</i>'s charge, if the "
+"<i>Unhatched</i>'s trait give him a boost in blade resistance (lowering each "
+"hit's damage by 5 hitpoints), he will never think twice before charging him "
+"taking into account their difference in price (except at day time). Be "
+"prudent when using the <i>Gryphon Rider</i>, while most of the time, he only "
+"needs two hits on a <i>Black Cat</i> for the kill, putting to much hope on "
+"two hits on a 60+ defense unit, might be a gamble with <i>Gryphon Rider</"
+"i>'s 24 gold."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:19
+msgid ""
+"<u>Poacher:</u> the <i>Poacher</i> can give to your recruitment a different "
+"flavor. Best defense on forest, he can make use of this common terrain that "
+"Dwarves will avoid. He can supply some hit on the <i>Life thief</i> and "
+"retaliation on <i>Black Cats</i> or <i>Scornful Watchers</i> for cheap "
+"price. When the <i>Unhatcheds</i> get more frequent, the <i>Footpad</i> is a "
+"better recruit though, since the <i>Poacher</i> is such a juicy target for "
+"them."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/knalgans.cfg:21
+msgid ""
+"<u>Thief:</u> the <i>Thief</i> can be best used to counter Nightmares when "
+"they put themselves on bad defense without making much damage. If the "
+"<i>Thief</i> can walk around and backstab anything, he will probably be able "
+"to make enough damage to make up for his gold. If one <i>Thief</i> got a "
+"kill, you might try to feed him with XP to level him. As <i>Thieves</i> have "
+"quite low hitpoints and bad resistance on nearly all Nightmares' damage, no "
+"need to get several of them as you can't reasonably hope you will get "
+"opportunity to backstab with several of them. Counting on a <i>Thief</i> "
+"based strategy is quite risky though, because they are very quick to fall "
+"under the <i>Black Cat</i>/<i>Unhatched</i> combination."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:3
+msgid "Loyalists vs Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:5
+msgid ""
+"When Loyalists' player realizes he faces Nightmares of Meloen, his attention "
+"should constantly be focused on the <i>Scornful Watcher</i>. The large range "
+"of Loyalists' melee units can be used to bring them down before night. As "
+"your opponent will try his best as zocing you out from getting at his "
+"<i>Watchers</i>, recruiting a bit of any melee units is one important step "
+"to ruin his strategy."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:7
+msgid ""
+"While the <i>Spearman</i> gets the best damage per gold, he is quite easily "
+"controlled by the <i>Unhatched</i>. Hence you should have some "
+"<i>Cavalrymen</i> to attack from the distance, moreover his good impact "
+"resistance can make him a good blocker against the <i>Unhatched</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:9
+msgid ""
+"When attacking <i>Unhatched</i> with <i>Mages</i> you should try to finish "
+"from fear that Nightmares sacrifice him on your <i>Mage</i> hoping for a "
+"kill. For most others attack combo, the most important is to deal maximum "
+"damage. As the Nightmares don't really have an efficient village holder, "
+"they will have to give up villages reducing their ability to heal. The only "
+"exception is the <i>Scornful Watcher</i> as he is so deadly that you want to "
+"have him dead."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:11
+msgid ""
+"<u>Bowman:</u> the <i>Bowman</i> is less efficient at dealing damage to "
+"Nightmares than the <i>Mage</i>. For this reason you should restrain "
+"yourself from getting them. However, if you lack gold or if you already have "
+"one, it can be quite useful poking safely the <i>Life Thief</i> and the "
+"<i>Unhatched</i> or against the <i>Scornful Watcher</i> at retaliating. His "
+"additional hitpoints can be a life saver."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:13
+msgid ""
+"<u>Cavalryman:</u> this is a key unit for this matchup. His high resistance "
+"to impact damage helps containing the Nightmares push at night while his "
+"speed allows him to switch quickly to the attack mode on <i>Scornful "
+"Watchers</i>. The <i>Cavalryman</i> can also successfully chase down a "
+"fleeing <i>Howling Darkness</i> and you can use his 3 strikes to ensure a "
+"hit on the <i>Black Cat</i>. His blade damage is also doing well against the "
+"bramble form of the <i>Unstable Elemental</i>. So get some of them and try "
+"to level one."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:15
+msgid ""
+"<u>Fencer:</u> get them if wounded <i>Howling Darknesses</i> and <i>Scornful "
+"Watchers</i> keep escaping your grip. They will only have small use in "
+"defense, as the combination of <i>Black Cat</i>'s jinx attack and their own "
+"bad resistance are promises of short life when facing the <i>Unhatched</i>. "
+"If you have no problem killing your quota of <i>Scornful Watchers</i> you "
+"probably better keep the gold for a <i>Mage</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:17
+msgid ""
+"<u>Heavy Infantry:</u> do only recruit them when Nightmares abuse of "
+"<i>Unhatcheds</i>. As soon as they appear, they will be the target of "
+"<i>Scornful Watchers</i> to clear the way for the <i>Unhatcheds</i>. As your "
+"<i>Heavy Infantry</i>'s armor is no use against them, you should make sure "
+"they are in <i>Scornful Watcher</i>'s range only at the second night "
+"otherwise you will probably lose too much gold. Due to their slowness, they "
+"will only be useful in defense so the best time to get recruit them is "
+"usually at dusk or first night. On attack they should target anything but "
+"the <i>Life Thief</i> whenever possible."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:19
+msgid ""
+"<u>Horseman:</u> while the <i>Horseman</i> powerful charge let's you hope of "
+"huge damage, its cost is a deterrent to having one in the early game. If the "
+"game gets longer and you succeed in cashing enough gold, you can then get "
+"one as he will do well at <i>Scornful Watcher</i> assassination with his "
+"impact resistance cutting down the retaliation, and will simply be deadly "
+"against the <i>Howling Darknesses</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:21
+msgid ""
+"<u>Mage:</u> the <i>Mage</i> will be a powerful weapon against the "
+"<i>Unhatched</i>. However, his low hitpoints require you to protect them at "
+"any time of the day. Hit the <i>Unhatched</i> you have the best chance to "
+"kill, as even wounded his charge attack is danger for your <i>Mage</i>'s "
+"life. Because he is so weak against the <i>Unhatched</i>, don't feed him "
+"with kills. He will probably never live long enough to level."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:23
+msgid ""
+"<u>Merman Fighter:</u> when water is present in the map, getting a <i>Merman "
+"Fighter</i> or two is a good idea. Since Nightmares don't have good movement "
+"on water, they can force the <i>Unstable Elemental</i> to move to water to "
+"control them or they will be able to reach the <i>Scornful Watchers</i>. "
+"When facing a whirlpool form of the <i>Unstable Elemental</i> do not fear to "
+"engage in combat as they have worst resistance than your <i>Merman Fighters</"
+"i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/loyalists.cfg:25
+msgid ""
+"<u>Spearman:</u> as always, the <i>Spearman</i> will be the first recruit to "
+"turn to. He can both retaliate hard on the <i>Unhatched</i>'s charges and do "
+"severe damage to the <i>Scornful Watcher</i>. His low price allows you to "
+"get enough to protect efficiently your <i>Mages</i> from the threat of "
+"<i>Unhatcheds</i>. Combining with <i>Cavalryman</i> is a must though, as you "
+"want to diversify your damage type to leverage on the resistance bonus of "
+"the <i>Unhatched</i>'s trait and get more speed to chase Nightmares down "
+"when the day comes."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:3
+msgid "General strategy for Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:5
+msgid ""
+"Generally speaking, Nightmares of Meloen is a faction made of fast units "
+"that lack of resilience. In order to win, you have to keep your troops "
+"mobile and follow the day-night cycle. Some of Nightmares' units are "
+"relatively expensive which makes them unable to compete in number with most "
+"of default faction, but on the other hand they got a lot of abilities and "
+"specials that make them deadly when used right."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:7
+msgid ""
+"They don't have a typical village holder and it is most of the time better "
+"to leave a village open than to sit on it waiting for your opponent's "
+"attack. If holding a village is of paramount importance, good candidates are "
+"the <i>Unhatched</i> and in a lesser way the <i>Black Cat</i> or the "
+"<i>Scornful Watcher</i>, the former should be use to hold village threatened "
+"by melee oriented units while the latters can hold against ranged units. "
+"Given his poor resistance the <i>Black Cat</i> can't hold well against more "
+"than 2 units, so make sure to zoc out the other possible attackers. On hill "
+"and cave villages, the <i>Unstable Elemental</i> may be considered too."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:9
+msgid ""
+"As Nightmares of Meloen are quite fast units, the village grabbing should "
+"not be a problem in the early game: <i>Unhatched</i>, <i>Black Cat</i>, "
+"<i>Unstable Elemental</i> and <i>Floating Darkness</i> all have 6 or more "
+"movement points. However as the last 3 units are rather weak and expensive, "
+"make sure you keep enough cash to buy units to protect them later. A typical "
+"first turn recruitment could be: 2 <i>Unhatched</i>, 1 <i>Black Cat</i>, 1 "
+"<i>Unstable Elemental</i> and a mix of <i>Scornful Watcher</i>, <i>Life "
+"Thief</i>, <i>Howling Darkness</i> or additional <i>Unhatched</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:11
+msgid ""
+"<u>Unhatched:</u> for his high resists and his low price, the <i>Unhatched</"
+"i> is the core unit of Nightmares' faction, filling both the big melee "
+"hitter and the cheap meatbag roles. It's good to have some for any of the "
+"matchups in mainline's. While they are very efficient in taking damage in "
+"defense, they also have a major role in most offense strategies. When "
+"attacking with them, mind the trait who gives them an edge against some "
+"damage type."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:13
+msgid ""
+"<u>Black Cat:</u> it is the magi of Nightmares. He helps to reduce the "
+"defender's defense when pushing an offensive, hence boosting every unit's "
+"damage per cost ratio. While having strong defense overall, it suffers of "
+"poor resistance making it quite weak in one versus some combats."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:15
+msgid ""
+"<u>Life Thief:</u> while it can be compared to the <i>Ghost</i> by some, it "
+"differs in its statistics. Even if it has more HP and better attack than the "
+"<i>Ghost</i>, it has worst defense and resistance. This overall make him "
+"less like a tank and more like an offensive weapon. This is particularly "
+"true against units with bad arcane resistance such as the drakes, trolls or "
+"woses. It can make an upset to a push of chaotic units with low defense too."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:17
+msgid ""
+"<u>Scornful Watcher:</u> if it can be considered as the archer units of "
+"nightmares, his role is major against any faction that have good arcane "
+"resistance. As it turns any arcane resistance into a weakness, this "
+"Nightmares' unit is Loyalists' and knalgans' nightmare, and could be put to "
+"good use against the arcane-neutral orcs. The <i>Scornful Watcher</i> is "
+"mostly a support unit against both Drakes and Undead, but can eventually "
+"retaliate against the cold damage or poke at the saurians for the former or "
+"ghosts for the latter."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:19
+msgid ""
+"<u>Howling Darkness:</u> a 7 movement point flying skirmisher with "
+"leadership is what we talk about. Lacking a melee attack and low hitpoints, "
+"the <i>Howling Darkness</i> can't take care of itself. In exchange of their "
+"protection, other units will receive lower damage from opponent's attacks "
+"with the <i>Howling Darkness</i>. Keep in mind that to give that bonus, it "
+"should get next to the opponent's unit."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:21
+msgid ""
+"<u>Unstable Elemental:</u> this is the game's most volatile unit. Most of "
+"its stats change according to the terrain it is standing on. With a very "
+"high movement point and a flyer movetype on its basic form, this can be used "
+"as Nightmares' scout. However be aware than in some of its variations, the "
+"<i>Unstable Elemental</i> trades most of its mobility for some resist bonus."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_general_strategy.cfg:23
+msgid ""
+"<u>Creepers:</u> a strategy changing unit. When all your attempts with "
+"<i>Unhatched</i> or <i>Life Thief</i> have failed, this is the time to bring "
+"the <i>Creepers</i> in. Low cost and low upkeep, you can mass them to block "
+"opposition's advance. They have very high damage as long as you use the "
+"banding ability when attacking. If they can't win a game, they can save your "
+"day."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:3
+msgid "Nightmares of Meloen vs Drakes"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:5
+msgid ""
+"Unless you got a <i>Life Thief</i> right on, it is likely that your first "
+"recruit will be a little backward what is truly needed against the Drakes. "
+"Still, your <i>Unhatched</i> units should be put to good use as they still "
+"deal a good amount of damages at night. After acknowledging your opponent's "
+"faction, you should start getting a few more <i>Howling Darkness</i> and "
+"<i>Life Thief</i> units as they both have a damage type the drakes are weak "
+"too. If you got a <i>Watcher</i>, do not worry too much, your opponent is "
+"likely to have gotten a few saurian units on their first recruit, thus your "
+"<i>Watcher</i> will still have his role to play."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:7
+msgid ""
+"More than in most match-ups, this one will use heavily the Time of Day cycle "
+"as your opponent will unlikely base his strategy around saurians, and will "
+"make heavy use of <i>Burners</i>. This will lead to a match between quick "
+"and hard hitting units with opposite alignments. Do not fear to leave your "
+"villages at day, you will get them back as the night falls."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:9
+msgid ""
+"<u>Unhatched:</u> Although the Drakes will resist his impact damage a bit, "
+"this unit will remain damage/cost efficient, and a good option to bring the "
+"<i>Burners</i> down or other units at favorable Time of Day and/or with a "
+"<i>Howling Darkness</i> support. Also, on favorable terrain they'll be your "
+"cheapest option to block an attack and let your expensive damage dealer "
+"safe, if you really have to hold a point or cover an important unit. Try to "
+"have a couple around any time."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:11
+msgid ""
+"<u>Black Cat:</u> the <i>Cat</i> won't be as much of use as in other match-"
+"ups, as the drakes don't suffer defense alteration as much as the high-def "
+"units. Still, it can be of use against the saurian and any cheap shot to "
+"lower a drake defense is cool to take. No need to recruit several of them. "
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:13
+msgid ""
+"<u>Life Thief:</u> they really are a core troop in the matchup against "
+"Drakes. Their damage type ensures heavy damage against any of them, in "
+"addition to the fact they'll replenish life as they fight. Always have a "
+"couple of them around, but be aware that at daytime the fire damage of "
+"Drakes will tear them apart."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:15
+msgid ""
+"<u>Scornful Watcher:</u> It is likely that the only saurians you'll face are "
+"those from your opponent's first recruit. Poking at the <i>Skirmishers</i>, "
+"or finishing and retaliating against <i>Augurs</i> is the only use of this "
+"unit, so don't recruit it if you know you're against the Drakes faction."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:17
+msgid ""
+"<u>Howling Darkness:</u> While a casual support unit elsewhere, the "
+"<i>Darkness</i> is a necessity against the Drakes. His cold damage type "
+"makes it efficient against anything, his horror ability will make your push "
+"safer, and his skirmishing ability will help to ZoC the hard-to-trap Drakes "
+"when comes the night. You need a couple of them around."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:19
+msgid ""
+"<u>Unstable Elemental:</u> The scouting role will be fill by your "
+"<i>Darkness</i> units already, so the <i>Elemental</i> will be less of use "
+"here. It can still get the iffy slots you don't want your <i>Darkness</i> to "
+"take, and hopping on a hill/mountain or a water hex to tank can remain a "
+"decent option if you have to protect your more important damage dealers. "
+"Don't recruit more than one."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_drakes.cfg:21
+msgid ""
+"<u>Creeper:</u> Although dealing piercing damage, the amount isn't enough to "
+"benefit from the Drakes' pierce weakness. So no need to focus on that point. "
+"More over, its low movement and grouping constraint will make it unable to "
+"follow the day/night push'n pull of this match-up. If the game goes for a "
+"stalemate though, because of an heavy damage threat on each side or "
+"defensive styleplay, they can become an option. "
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:3
+msgid "Nightmares of Meloen vs Knalgan Alliance"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:5
+msgid ""
+"A general purpose recruit will be good against Knalgans, all of the units "
+"you have here can serve a purpose in this match-up. Even the arcane "
+"resistance of the units doesn't make the <i>Life Thief</i> useless, as it "
+"remains a good counter against the <i>Ulfserker</i>, and can tank a bit on "
+"flatland where you don't want to expose your other units, especially against "
+"those harassing <i>Footpads</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:7
+msgid ""
+"<u>Unhatched:</u> they will have a tough job dealing with the <i>Dwarf "
+"Fighter</i> or the <i>Footpad</i> because of their impact attacks. Still, "
+"the Knalgans will have to shift to other units, life the <i>Thunderer</i>, "
+"the <i>Poacher</i>, or the <i>Thief</i>, if they want to bring your <i>Life "
+"Thieves</i> down. And those units are good to charge, so keep a few "
+"<i>Unhatched</i> units around."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:9
+msgid ""
+"<u>Black Cat:</u> you will need these against Knalgans. They'll do a great "
+"job at diminishing the survivability of the elusive units, and will help to "
+"negate the dwarven incredible defense in mountains. They are easy prey for "
+"the <i>Ulfserker</i> though, and you will most likely have to lose a few of "
+"them during the battle. So keep a regular flux of recruiting to have 1 or 2 "
+"of them in the field."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:11
+msgid ""
+"<u>Life Thief:</u> a bit like the Undead <i>Ghost</i>, this unit will help "
+"to counter the ulf, and defend against the <i>Fighters</i> and <i>Footpads</"
+"i> you'd meet. However, they aren't a cost efficient damage dealer here, so "
+"don't recruit too many as they'll lower your fire power with each of them."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:13
+msgid ""
+"<u>Scornful Watcher:</u> like against the loyalists, the <i>Watcher</i> will "
+"get a bonus in damage against every unit you'll face, making it a precious "
+"and cost efficient ranged damage dealer. Having too many will make their "
+"protection difficult against the <i>Ulfserkers</i>, but having several "
+"around to poke at the melee oriented units, especially the cursed ones, is "
+"an excellent choice."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:15
+msgid ""
+"<u>Howling Darkness:</u> their ability is appreciable, but not a necessity. "
+"Because it is an expensive unit, and an extra safe kill for the "
+"<i>Ulfserker</i>, you might prefer to spend the money on more <i>Watchers</"
+"i> or <i>Unhatched</i> to outmatch the Knalgans in number or power."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:17
+msgid ""
+"<u>Unstable Elemental:</u> you will want one of these for the scouting role "
+"mainly: grabbing village and gathering intelligence. Don't forget that other "
+"forms can occasionally be useful, for tanking and slowing to lower "
+"retaliation."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:19
+msgid ""
+"<u>Creeper:</u> if the game goes for a stalemate you might want to "
+"accumulate these instead of banking. It can also be tiresome defenders to "
+"remove for the knalgans if they want to push at day. But generally speaking, "
+"you will prefer to use other units when you face the Knalgans, as few "
+"<i>Fighters</i> in mountains will hold massive amounts of <i>Creepers</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:21
+msgid ""
+"Once you see your opponent to be knalgan, you'll want to diversify a bit "
+"your army and recruit more <i>Watchers</i> than you usually have, so get a "
+"<i>Life Thief</i> as soon as possible if you don't have one already, and "
+"same for the <i>Watcher</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_knalgans.cfg:23
+msgid ""
+"Each time it is safe, you'll want to use the <i>Black Cat</i> on the "
+"<i>Gryphons</i>, <i>Thieves</i>, <i>Footpads</i> and <i>Fighters</i> to "
+"negate their massive defense and make them easy shots for your <i>Watchers</"
+"i> mainly, but also at times your <i>Life Thieves</i> and <i>Unhatched</i>. "
+"Use those last two to charge the <i>Thunderers</i> and <i>Poachers</i> who "
+"can remain a threat to your <i>Life Thief</i>. If you see massive amounts of "
+"<i>Footpads</i>, get a few more <i>Life Thieves</i>, and progress slowly "
+"with a front line of them and a back-line of <i>Black Cats</i> and "
+"<i>Scornful Watchers</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:3
+msgid "Nightmares of Meloen vs Loyalists"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:5
+msgid ""
+"After having got a general purpose recruitment on turn 1, when realizing "
+"Nightmares of Meloen are facing Loyalists, they want to get <i>Scornful "
+"Watchers</i>. Their arcane focus special is using loyalists' arcane "
+"resistance at their detriment. The <i>Scornful Watcher</i> is rather fragile "
+"on melee though and you need to protect at any time of the day. The "
+"<i>Unhatched</i> is usually used for that job as it is quite cheap and thus "
+"does not divert too much resource from the <i>Scornful Watcher</i> "
+"recruitment."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:7
+msgid ""
+"While most of Loyalists' army is a threat to an wounded <i>Unhatched</i>, "
+"only the <i>Mage</i> will dare to attack them when their hitpoints are still "
+"high. If he fails to finish the <i>Unhatched</i>, a sacrifice on the "
+"<i>Mage</i> is a option to consider taking into account the huge difference "
+"in price and the hard damage the <i>Unhatched</i> can deal. When charging "
+"Loyalists' melee units, getting them cursed first will increase your chances "
+"to make damage, while support of the <i>Howling Darkness</i> helps reducing "
+"the retaliation."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:9
+msgid ""
+"When retreating the <i>Unhatched</i> must stay in first line so it is quite "
+"important they don't get hurt too bad at the end of the night. Consider with "
+"great care the possible moves from the <i>Cavalryman</i> as he will be the "
+"main tool to get you zoced when the day arrives. Recruit your <i>Unhatched</"
+"i> around second night so they are available to cover your retreat, recruit "
+"<i>Scornful Watcher</i> around second day so can counter if Loyalists push "
+"too far."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:11
+msgid ""
+"<u>Unhatched:</u> get enough of those to protect your weaker units. They can "
+"engage in combat with any ranged unit and melee unit too if you make full "
+"use of <i>Unhatched</i>'s trait. Exception for the <i>Heavy Infantry</i> "
+"that should not be attacked directly for fear of hard retaliation."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:13
+msgid ""
+"<u>Black Cat:</u> get one or two of them to lower opponent's defence. "
+"Combined with heavy hitters <i>Unhatched</i> and <i>Scornful Watcher</i> "
+"they guarantee maximal damage. They can be use for village holding too if "
+"the number of attacker is limited."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:15
+msgid ""
+"<u>Life Thief:</u> don't recruit those against Loyalists as their unit's all "
+"have good arcane resistance to counter his melee attack."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:17
+msgid ""
+"<u>Scornful Watcher:</u> when facing Loyalists, this is showtime for the "
+"<i>Scornful Watcher</i>. You have to recruit enough of them to do plenty of "
+"damage at night but make sure you can cover them when the day comes. You "
+"should consider feeding them XP so to use the level 2 at his full potential."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:19
+msgid ""
+"<u>Howling Darkness:</u> you can recruit one of those to help the "
+"<i>Unhatched</i> to clear the way for <i>Watchers</i> without taking too "
+"much retaliation. His own ranged attack can be of some help to weaken units "
+"that don't resist cold. Timing his attack is important because as soon as he "
+"has fired, you can't use his skirmisher for further support."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:21
+msgid ""
+"<u>Unstable Elemental:</u> recruit some of them zocing out your opponent's "
+"troops at dawn and trap them in at dusk. When put in water they can restrain "
+"<i>Mermen</i>'s mobility, however they should not engage in combat due to "
+"their bad resistance. The <i>Unstable Elemental</i> can also help holding "
+"the line when put on hill or forest. In the later terrain, the slow special "
+"can keep the <i>Mages</i> away and their pierce resist can hold the "
+"<i>Spearmen</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_loyalists.cfg:23
+msgid ""
+"<u>Creeper:</u> you can use some of them to hurt <i>Mages</i>, <i>Bowmen</i> "
+"or horses. When your time of the day is done, you can also use them to "
+"shield more important units by forcing your opponent to use some unit to "
+"clear them out. Keep them in pack to lower upkeep."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:3
+msgid "Nightmares of Meloen vs Nightmares"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:5
+msgid ""
+"Like all mirror matches, this matchup requires to use units at their full "
+"potential to make a difference. The additional fun in this mirror is that "
+"you will make huge damage at each turn and that for most units the number of "
+"potential targets is pretty high."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:7
+msgid ""
+"When realizing you face other Nightmares, get more <i>Life Thieves</i>. "
+"Beside other <i>Life Thieves</i>, its only foe is the <i>Scornful Watcher</"
+"i>, so its life on the board is pretty easy. The only thing to worry is to "
+"get slowed by a bramble form of the <i>Unstable Elemental</i> as that would "
+"make any <i>Scornful Watcher</i> around an immediate danger."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:9
+msgid ""
+"Move in the battlefield with <i>Life Thieves</i> first. While you should not "
+"let them get slowed, you can lure some foe in the open to charge him with "
+"<i>Unhatcheds</i>. When moving, the <i>Unhatched</i> will under constant "
+"pressure from opponent's <i>Life Thieves</i> so you should keep your "
+"<i>Scornful Watchers</i> in range to counter an attack (bramble form of the "
+"<i>Unstable Elemental</i> can do either)."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:11
+msgid ""
+"In the case you face a spam of bramble form of the <i>Unstable Elemental</"
+"i>, make sure you attack them one after the other, feeding the same <i>Life "
+"Thief</i> with kills. The bramble forms lacks of attack power and even "
+"slowed <i>Life Thief</i> will heal enough on retaliation to survive. Putting "
+"your <i>Unhatched</i> on forest will deprive your opponent from the best "
+"spots and force him quickly to resign after your first <i>Life Thief</i> has "
+"levelled."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:13
+msgid ""
+"<u>Unhatched:</u> while the damage the <i>Unhatched</i> can do is still "
+"pretty high against Nightmares, the impact damage he resists least is "
+"distributed on several units: <i>Unhatched</i>, <i>Scornful Watcher</i> and "
+"some forms of <i>Unstable Elemental</i> all have some and can inflict "
+"painful retaliation, which leaves the <i>Black Cat</i> and <i>Floating "
+"Darkness</i> as preferred targets. It is worth though to throw the "
+"<i>Unhatched</i> on any <i>Scornful Watcher</i> around to protect your "
+"<i>Life Thief</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:15
+msgid ""
+"<u>Black Cat:</u> as most of Nightmares' units have pretty low defense, "
+"getting her is not mandatory, but if the opposition is seasoned, the "
+"increase of chance to hit will be welcome. In this case, she will be in "
+"constant danger from the opposing <i>Unhatched</i>. As the jinx special does "
+"not affect unit with nightmare race (<i>Life Thief</i>, <i>Floating "
+"Darkness</i>), she will be most useful on <i>Unhatched</i> as they will not "
+"retaliate. Cursing an <i>Unstable Elemental</i> can help your <i>life Thief</"
+"i> to heal faster too."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:17
+msgid ""
+"<u>Life Thief:</u> its arcane attack spreads panic and desolation in the "
+"ranks of opposing Nightmares. It hurts badly any unit around, getting healed "
+"in the process except against the nightmare race. Get some of them."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:19
+msgid ""
+"<u>Scornful Watcher:</u> he is very useful to tame the <i>Life Thief</i>. "
+"None other unit can do the job better and safer than him. As being the major "
+"threat to the powerful <i>Life Thief</i> along with the <i>Life Thief</i> "
+"itself, he will be followed closely by opponent's <i>Unhatched</i> and "
+"should thus be protected by yours. If no better opportunity is present, "
+"taking at <i>Creepers</i> never hurts."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:21
+msgid ""
+"<u>Howling Darkness:</u> the <i>Howling Darkness</i> helps reducing the "
+"impact of retaliation, saving a couple of health points that can turn death "
+"into life. However, due to its high price and lack of resilience, one of "
+"them is enough. Its cold ranged should be left for the <i>Unhatched</i> that "
+"has no resistance."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:23
+msgid ""
+"<u>Unstable Elemental:</u> in its basic tornado form, it is quite weak, and "
+"taking into account how fast is the <i>Unhatched</i> it might be hard to "
+"keep alive. Move it to forest or hill and it will trade its blade for an "
+"impact attack that will earn <i>Unhatched</i>'s respect. The bramble form "
+"gets a slow special on its range attack that comes handy against the <i>Life "
+"Thief</i>. This asset will make it the reigning form on the battlefield as "
+"the quake form's improved blade and fire resistance will have no use. "
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_nightmares.cfg:25
+msgid ""
+"<u>Creeper:</u> while not playing a significant role in the mirror matchup, "
+"the <i>Creepers</i> can always bring a change in strategy. Their main "
+"targets would then be the <i>Watchers</i>, the <i>Floating Darkness</i> and "
+"the <i>Black Cat</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:3
+msgid "Nightmares of Meloen vs Northerners"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:5
+msgid ""
+"The fight between these two chaotic factions will be relentless. As "
+"Nightmares' units are slightly weaker and more expensive, it will be theirs "
+"to decide when to retreat or heal a unit. If they failed to do so and try to "
+"match Northerners in a total war, it is likely that they will end up "
+"critically wounded and undermanned."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:7
+msgid ""
+"While the natural way for Nightmares of Meloen to fight against Northerners "
+"would be to use their abilities to make for Northerners' number, that "
+"strategy doesn't fare very well. Nightmares' best chance is to turn quickly "
+"to <i>Creepers</i>. Getting too many <i>Unhatched</i> will make the "
+"Northerners turn to <i>Whelps</i>. As Nightmares' <i>Life Thieves</i>, their "
+"best counter against trolls, can't beat them in price, that is not something "
+"they want to happen."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:9
+msgid ""
+"<u>Unhatched:</u> this time, basing your army around this unit won't be so "
+"safe: the <i>Troll Whelp</i> is most of the time quite efficient to counter "
+"it, charging <i>Grunts</i> is not often a good idea and the fire of "
+"<i>Orcish Archers</i> is efficient enough. Though it remains important to "
+"keep a few arounds because it remains an efficient <i>Wolf</i> and "
+"<i>Archer</i> killer and if the traits and the <i>Howling Darkness</i> are "
+"wisely used, could even charge occasionally <i>Grunts</i> or <i>Whelps</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:11
+msgid ""
+"<u>Black Cat:</u> she is a vital unit to have to weaken defense of "
+"Northerners' melee units. Keep her on the best defense and don't leave "
+"Northerners too many spots to attack her as a <i>Grunt</i> only needs two "
+"hits to kill her at night. Even then, it will be <i>Grunts</i>' primary "
+"target, so Nightmares will have to regularly put her in their recruitment "
+"list as their <i>Black Cats</i> fall."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:13
+msgid ""
+"<u>Life Thief:</u> while it is a useful unit to face <i>Whelps</i> as he "
+"leverages on their arcane weakness, its low defense and lack of fire "
+"resistance makes it <i>Orcish Archer</i>'s favorite meal. However, "
+"recruiting it will force your opponent to invest in <i>Orcish Archers</i>, a "
+"unit that is more expensive and an easier prey for your <i>Unhatched</i>, "
+"because the other northerner troops will hardly deal with your <i>Life "
+"Thief</i> on their own. Still, it is more a unit to bring in the middle of "
+"the game after Nightmares have survived Orcs first assaults and Northerners "
+"move to an attrition warfare with <i>Whelps</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:15
+msgid ""
+"<u>Scornful Watcher:</u> the safest fighter to poke at the <i>Grunts</i>. He "
+"deals good damage without retaliation. However as it still requires 6 or 7 "
+"hits to kill a <i>Grunt</i>, the support of <i>Black Cats</i> is necessary "
+"to inflict enough damage per turn to stand the flow of hordes of <i>Grunts</"
+"i>. His retaliation is also good enough to make cursed melee units think "
+"twice before attacking. However, because it is by far not as cost efficient "
+"as the <i>Grunts</i> here, they aren't enough to give you victory, and are "
+"only a part of the mix you need."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:17
+msgid ""
+"<u>Howling Darkness:</u> it can provide helpful support to attacks on melee "
+"and its range attack is very useful to finish off cursed <i>Grunts</i> or "
+"<i>Whelps</i>.  But as its survival hope is quite bleak against melee heavy "
+"Northerners, getting one at a time is enough. As it gets a nice health point "
+"boost on leveling, Nightmares might want to feed him with kills (a bit more "
+"than three kills needed to advance)."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:19
+msgid ""
+"<u>Unstable Elemental:</u> this scout can find some room to fit in. It can "
+"be useful on water against <i>Naga</i> and can hold a hill or mountain for a "
+"while. The bramble form on forest, while it gets a nice slow special, is "
+"weak to <i>Grunt</i>'s blade. While the <i>Unstable Elemental</i> is very "
+"versatile, something is common to all forms: they can be poisoned."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:21
+msgid ""
+"<u>Creeper:</u> his lack of mobility is not a problem as both factions are "
+"chaotic, while his relatively high defense requires on average two "
+"<i>Grunts</i> to kill one at full health. They do a pretty lousy job at "
+"holding village against more than 2 units. <i>Creepers</i>' priority is to "
+"bring down the <i>Orcish Archers</i> on attack and cover healing units and "
+"<i>Watchers</i>. As they are of neutral alignment, wait for daytime to push "
+"them to attack when they will receive less retaliation. If they can be used "
+"to attack <i>Wolf Riders</i>, they should keep defensive for the other melee "
+"units. Keep the full health <i>Creepers</i> in front to maximise retaliation "
+"before they die. Try to manage your gold to recruit them by pack of at least "
+"three as power comes with number."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:25
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:23
+msgid "<u>Summary:</u>"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_northerners.cfg:24
+msgid ""
+"Use Creepers on Orcish Archers and Black Cat and Scornful Watcher on Grunts. "
+"The Unhatched can at times be used to charge but you have to create good "
+"conditions of attack for him. If you really have to charge something, try to "
+"use the Floating Darkness to limit retaliation (unless you target an "
+"Archer), and keep in mind the traits. Charging Assassin is a good idea to "
+"get rid of the poison that turns your Unhatched into a joke. If you face an "
+"army of Trolls get some Life Thieves. If you can't, best is to just ignore "
+"Trolls unless you have a bunch of idle Creepers. Don't mind high defense "
+"spot (except for the Cat) as much as unit cover when moving."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:3
+msgid "Nightmares of Meloen vs Rebels"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:5
+msgid ""
+"The <i>Unhatched</i> and <i>Black Cat</i> combination will shine on this "
+"match-up. The defense debuffing will negate the specialty of the nimble "
+"elves, and the hard hitting <i>Unhatched</i> will quickly rip off their "
+"little health amount. That will not be enough to give you the game in hand "
+"though: the cost efficient fighter can still do some nasty retaliation, even "
+"if your <i>Unhatched</i> has the appropriate trait, and the <i>Wose</i> is "
+"almost invincible against them. Therefore, you'll need a mix of support "
+"units to make up for it."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:7
+msgid ""
+"Your opponent will try to hold your night pushes mostly, capitalize "
+"experience by finishing off the units that took hard retaliation and wait to "
+"have regrouped a few <i>Woses</i> before attacking you at day. Try to seize "
+"the dynamic of the game in your favor with an early threat and have the "
+"push'n pull happen around his villages rather than yours. If he brings on "
+"too many <i>Woses</i>, counter recruit with your <i>Life Thief</i> units, "
+"and use the support of an <i>Howling Darkness</i> if too many fighters block "
+"the way."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:9
+msgid ""
+"<u>Unhatched:</u> They'll be your core troop here, dealing massive damage to "
+"the elves who are on bad terrain or under the effect of jinx, as well as "
+"taking the hits from swords and arrows. Have an army of them anytime but if "
+"you see <i>Wose</i> spam."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:11
+msgid ""
+"<u>Black Cat:</u> Another of your key units in this match. They won't deal "
+"many damage, but they'll have a massive impact on the Rebels' defense "
+"organization. Always have at least one, but you may recruit several as "
+"they'll be really busy cursing every unit around."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:13
+msgid ""
+"<u>Life Thief:</u> Their arcane damage will make them quite decent damage "
+"dealers against most of Rebels' troop. However they really shine at dealing "
+"with the <i>Wose</i>, and aren't as cost efficient as the <i>Unhatched</i> "
+"for the other jobs. So recruit according to the number of <i>Woses</i> you "
+"face."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:15
+msgid ""
+"<u>Scornful Watcher:</u> Because nearly all units it'll fight with are "
+"arcane weak, the <i>Scornful Watcher</i>'s special will lessen its "
+"potential. Still, the rounding of damages make it do a 7-3 ranged attack (at "
+"night only) making it a passable archer-like creature. It may deal with the "
+"human mage too in favorable conditions. You can have one around, but "
+"restrain from having more as your money is probably better spent elsewhere."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:17
+msgid ""
+"<u>Howling Darkness:</u> If you face packs of elves to counter your "
+"<i>Unhatched</i> army, its horror ability will be of good help to reduce "
+"retaliation. Moreover, its skirmishing capacity will make it efficient at "
+"ZoCing units, get on the extra hex you need for damage dealing, or even slip "
+"behind the lines to village threat, decoy, create open spaces and "
+"disorganize the Rebels' defense organization in general. It is quite an "
+"expensive unit though, so don't recruit several of it."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:19
+msgid ""
+"<u>Unstable Elemental:</u> The <i>Elemental</i> will have a vital role of "
+"scouting and gathering intelligence. It will also at times be able to tank "
+"in hills or grab the forest hexes your opponent would want. To finish with, "
+"its slowing special when coming out of a forest will ensure your "
+"<i>Unhatched</i> to take low retaliation even against the fighters. The unit "
+"isn't too damage/cost efficient though, so bear in mind that you decrease "
+"your fire power with each of them."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_rebels.cfg:21
+msgid ""
+"<u>Creeper:</u> Again, the <i>Creepers</i> will offer an alternative to your "
+"army, but they don't make a game on their own, especially since the <i>Wose</"
+"i> is about invincible against them. Go the <i>Creepers</i> way if you fight "
+"many elves that aren't willing to come for a fight."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:3
+msgid "Nightmares of Meloen vs Undead"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:5
+msgid ""
+"This matchup will be another total war for Nightmares. Facing another "
+"chaotic faction, there will be not much time to rest even if the pace of the "
+"game might get slower depending on the recruited lines."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:7
+msgid ""
+"As Nightmares realize they are facing Undead they will have most probably an "
+"edge to launch the first attack. As Undead's major tool to contain attack "
+"from Nightmares is the <i>Walking Corpse</i> and that this one is rarely "
+"recruited in the beginning of the game, there will be a window for "
+"Nightmares to strike first before Undead gets fully prepared. During that "
+"period, the <i>Unhatched</i> will be ruling the place raiding <i>Skeletons</"
+"i> and <i>Dark Adepts</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:9
+msgid ""
+"As Undead starts building up its army of <i>Walking Corpses</i>, Nightmares "
+"will have to change his recruitment pattern toward <i>Life Thief</i> and "
+"<i>Creepers</i>. The <i>Life Thief</i> despite its high price will be an "
+"invaluable asset with its heavy arcane melee that hurts any undead. The "
+"<i>Creepers</i> will be necessary to match <i>Walking Corpses</i>' numbers."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:11
+msgid ""
+"<u>Unhatched:</u> one of Nightmares' most important weapons in this matchup. "
+"The <i>Unhatched</i>'s role is to focus on <i>Dark Adepts</i> and get them "
+"down before they inflict deadly strikes. Its charge is also very efficient "
+"depending on its trait at fighting skeletons despite the heavy retaliation "
+"at night. For these reasons, you should keep getting some after <i>Walking "
+"Corpses</i> are spreading. If they have to charge a <i>Walking Corpse</i>, "
+"make sure to pick one that can be killed in one hit as its retaliation will "
+"hurt hard."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:13
+msgid ""
+"<u>Black Cat:</u> as <i>Black Cat</i>'s special jinx is not affecting "
+"Undead, she has a too huge price for its limited power in this matchup and "
+"should not be recruited in numbers. If you have got one, use her to hunt "
+"<i>Bats</i>, weaken skeleton with magic before <i>Unhatched</i>'s assault or "
+"hold village."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:15
+msgid ""
+"<u>Life Thief:</u> with its arcane melee, the <i>Life Thief</i> will be the "
+"master of the battle, its only threat being the <i>Dark Adept</i>. While it "
+"will be inflicting damage all around, it will have very few opportunity to "
+"drain so it will have to retreat to heal. Don't let your blood lust make you "
+"forget it or you could lose all hopes to level."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:17
+msgid ""
+"<u>Scornful Watcher:</u> as most Undead's units have some arcane weakness, "
+"the <i>Scornful Watcher</i> doesn't play a significant role. The only "
+"exception is if Undead recruitment turns for <i>Ghouls</i> against who he is "
+"the best weapon. Otherwise, use your <i>Scornful Watcher</i> on <i>Bats</i> "
+"and <i>Ghosts</i>, or to defend against the <i>Dark Adept</i>. Getting "
+"<i>Scornful Watcher</i> to fight <i>Ghost</i> is a good idea if you can't "
+"afford getting a <i>Life Thief</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:19
+msgid ""
+"<u>Howling Darkness:</u> its cold ranged attack is very inefficient against "
+"most Undead's units and its terror ability doesn't affect undead. For these "
+"reasons, refrain yourself from recruiting any <i>Howling Darkness</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:21
+msgid ""
+"<u>Unstable Elemental:</u> it is good to have one of this quick unit on the "
+"board. As the tornado form, the fastest, is quite weak, it will be used "
+"mainly for scouting and remote village protection. The bramble form can also "
+"be of some help with two impact attacks and the slow special. All form being "
+"weak to arcane, it will be a target for the <i>Ghosts</i> that will heal on "
+"them with drain when they don't fear getting slowed."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/nom_vs_undead.cfg:23
+msgid ""
+"<u>Creeper:</u> the <i>Creepers</i> are a good match to the <i>Walking "
+"Corpse</i>  with the advantage of not fearing to be plagued. They have less "
+"health points but hit harder when the banding ability is used well. Make "
+"sure you keep them in pack as the <i>Walking Corpses</i> will always target "
+"the most isolated ones. You should wait the end of the night to attack them "
+"as they will lose their chaotic bonus that allows them to kill your neutral "
+"<i>Creeper</i> in two hits. Keep in mind though to kill <i>Walking Corpse</"
+"i> when it clears access to a <i>Dark Adept</i>, and doing it at daytime "
+"would bring little benefit as your <i>Unhatched</i> will not hit that hard."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:3
+msgid "Northerners vs Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:5
+msgid ""
+"Both factions do have tremendous melee heavy hitters: the cheap "
+"<i>Unhatched</i> and the cheaper <i>Orcish Grunt</i>. Relying on them to "
+"make a breakthrough is quite a gamble and the best way to keep in control of "
+"the game is more than often making the best use of the ranged fighters, the "
+"<i>Scornful Watcher</i> for one side, the <i>Orcish Archer</i> for the "
+"other. Due to the threat they represent, they will be the focus of the melee "
+"unit tactics."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:7
+msgid ""
+"Another similarity between these two factions is how the <i>Black Cat</i> "
+"and the <i>Orcish Assassin</i> are used. Both unit bypass the defense to hit "
+"the target and disrupt it until it has healed on a village. As both "
+"factions, don't have a healer, the villages is an important asset and should "
+"be kept at all time. Your <i>Orcish Assassin</i> does only impact a couple "
+"of Nightmares' units so you should keep them in low number."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:9
+msgid ""
+"Northerners make better use of terrain to improve their defense, so push "
+"Nightmares to fight you on patches of good terrain. Keep in mind to always "
+"put in front the units with more hitpoints in order to make maximum "
+"retaliation and give you the opportunity to kill on your turn. They also "
+"have more diverse damage type available and can more easily press, choosing "
+"where to attack depending on <i>Unhatched</i>'s trait."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:11
+msgid ""
+"<u>Goblin Spearman:</u> evidence that the little one from the Orcish family "
+"play an essential role has still to be found. But you can still get a couple "
+"of <i>Goblin Spearmen</i> in some circumstances. They can be helpful at "
+"taking down the ranged oriented <i>Black Cats</i> and <i>Scornful Watchers</"
+"i>, can hold a village quite well when facing a single <i>Unhatched</i> and "
+"can give a hand at disinfecting an area from <i>Creepers</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:13
+msgid ""
+"<u>Naga Fighter:</u> when a patch of water is available, recruiting a "
+"<i>Naga Fighter</i> may be required. While his range is very similar to the "
+"<i>Unstable Elemental</i> due to his decent movetype on land, he cannot "
+"fight as well as the <i>Merman Fighter</i> against them."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:15
+msgid ""
+"<u>Orcish Archer:</u> he is Northerners' best weapon against <i>Life "
+"Thieves</i> with their low defense everywhere and, for this reason, will "
+"attract <i>Unhatched</i> as if he was a mage. The other special of the "
+"<i>Orcish Archer</i> is that he will be the only unit to make equal damage "
+"to any <i>Unhatched</i> regardless of his trait, so you can always use him "
+"on the <i>Unhatched</i> that resists best the damage type you have "
+"recruited. You have to protect him though and leveling one is a big "
+"achievement for this matchup."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:17
+msgid ""
+"<u>Orcish Assassin:</u> the <i>Orcish Assassin</i> while not being able to "
+"kill much in this matchup, remains useful. You can have one on the board at "
+"any time. Aberrations and <i>Unstable Elementals</i> only can be poisoned, "
+"the ones that give the hardest time to Northerners can be: <i>Unhatched</i>, "
+"<i>Black Cat</i> and <i>Scornful Watcher</i>. Poisoning <i>Unhatcheds</i> is "
+"particularly efficient as they possibly get a lot of damage in retaliation "
+"if they keep attacking so Nightmares do not want them to be low on HP. When "
+"the opportunity shows, poisoning the <i>Unstable Elemental</i> is neat too."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:19
+msgid ""
+"<u>Orcish Grunt:</u> the loyal <i>Grunt</i> proves himself again one of the "
+"best units in this matchup. Being able to do heavy retaliation on both "
+"<i>Unhatched</i> and <i>Life Thief</i>, he is in charge of clearing <i>Black "
+"Cats</i> and <i>Scornful Watchers</i> from the map. When all the possible "
+"targets have been decimated, you can use him to protect your <i>Orcish "
+"Archers</i> from <i>Unhatched</i> or your <i>Troll Whelp</i> from <i>Life "
+"Thieves</i>. It can also be used to give the killing blow to a <i>Life "
+"Thief</i>, if you don't have more archers available."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:21
+msgid ""
+"<u>Troll Whelp:</u> he is the solution when the board starts looking like an "
+"egg incubator. His impact damage and regeneration, combined with his low "
+"price makes any <i>Unhatched</i> spam a complete failure. The <i>Life "
+"Thieves</i> like to use his arcane weakness to drain him, thus being able to "
+"hold armies of <i>Troll Whelps</i>, so you should only recruit them when the "
+"number of <i>Unhatched</i> requires them. The <i>Troll Whelp</i>'s "
+"regeneration does not cure the effect of the <i>Black Cat</i>'s jinx, so, if "
+"cursed, his defense will drop to a critically low level."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:23
+msgid ""
+"<u>Wolf Rider:</u> with his exceptional movement and his three strike "
+"attack, the <i>Wolf Rider</i> can have a use against Nightmares depending on "
+"your play style. He can track down wounded or poisoned units when they flee, "
+"he can also keep in range of <i>Howling Darkness</i> for free hitting. "
+"Generally speaking, his movetype allows you to dispatch him wherever you "
+"need one hit or two without using one of your heavy hitters."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:26
+msgid "There are two strategies to fight Nightmares with Northerners."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:27
+msgid ""
+"The first one is to rely on <i>Troll Whelps</i> to control the <i>Unhatched</"
+"i>. As a consequence, Nightmares will recruit <i>Life Thieves</i> to heal on "
+"them while inflicting enough damage with <i>Troll Whelp</i>'s arcane "
+"weakness and his low defense. On your side, you will recruit <i>Orcish "
+"Archers</i> to beat the <i>Life Thieves</i> down. You still have to recruit "
+"some <i>Orcish Grunts</i> as he is still the best unit to hold strategic "
+"places against the <i>Life Thief</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/northerners.cfg:28
+msgid ""
+"The second path you can go is to go for a maximum of <i>Orcish Grunts</i>. "
+"If so, be ready to see <i>Black Cats</i> and <i>Scornful Watchers</i> coming "
+"in to take at them. They will be covered by <i>Unhatcheds</i> that you will "
+"target with some <i>Orcish Assassin</i> to disrupt his organization, and "
+"still some <i>Orcish Archers</i>. As poison will be often used and you will "
+"face ranged units, the <i>Wolf Rider</i> can bring additional tactics that "
+"can help getting a kill or extend the effect of poison on a trapped unit."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:3
+msgid "Rebels vs Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:5
+msgid ""
+"When Rebels realize they are playing against Nightmares, their first idea "
+"will be to get some <i>Woses</i>. While this is a good idea, the best is too "
+"wait for dawn or second night to get one, so that Nightmares are at the "
+"closest to launch the counter. When you get your <i>Wose</i>, you need to "
+"get some <i>Mages</i> quickly. They will make <i>Life Thieves</i> think "
+"twice before pushing at the end of the night when your <i>Woses</i> get "
+"engaged. At other time of the day, better to keep recruiting Elves, mostly "
+"cost efficient <i>Elvish Fighters</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:7
+msgid ""
+"On counter, use the <i>Wose</i> first on <i>Unhatched</i> at dawn, backed by "
+"<i>Mages</i>, <i>Elvish Shaman</i> staying on good defense to slow any "
+"<i>Unhatched</i> or <i>Life Thief</i>, the <i>Elvish Fighters</i> covering "
+"up while other units deploy to get ready for the push. When pushing keep the "
+"<i>Woses</i> moving full speed while Elves try to slow, zoc in and trap "
+"Nightmares. When attacking, use <i>Elvish Fighters</i> on <i>Black Cats</i> "
+"and <i>Scornful Watchers</i>, <i>Mages</i> on <i>Life Thieves</i>, <i>Elvish "
+"Shamans</i> and <i>Woses</i> on <i>Unhatched</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:9
+msgid ""
+"When retreating, have the <i>Woses</i> go full speed while using <i>Elvish "
+"Fighters</i> to cover the fleeing <i>Mages</i> and <i>Elvish Shamans</i>. As "
+"they will get wounded pretty badly keep on recruiting more to be able to "
+"hold until next day. When you can't retreat anymore, use Elves in lines, "
+"<i>Elvish Fighters</i> on the most exposed spots and <i>Elvish Archers</i> "
+"or <i>Elvish Scouts</i> elsewhere. Keep slowing <i>Unhatched</i> if your "
+"healthiest <i>Elvish Shaman</i> can stay on forest with some cover. On "
+"defense at night, do not use the <i>Woses</i> to hold the line, but rather "
+"leave them behind to regenerate as it will help make the Nightmares' <i>Life "
+"Thieves</i> aimless."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:11
+msgid ""
+"<u>Elvish Archer:</u> if the <i>Elvish Archer</i> does not make as much "
+"damage as the <i>Mage</i> and does not have has much hitpoints as the "
+"<i>Elvish Fighter</i> he can still be of some use. It can increase the speed "
+"of your army while making significant damage on Nightmares' melee units for "
+"free. He can replace an <i>Elvish Scout</i> but can't take the role of an "
+"<i>Elvish Fighter</i>. So recruiting one or two is enough."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:13
+msgid ""
+"<u>Elvish Fighter:</u> there is obviously no chance for you to win in this "
+"matchup if you don't rely on <i>Elvish Fighter</i>'s resilience and punch. "
+"He is the guy that will bring down any ranged units of Nightmares, and he "
+"will make maximum retaliation on <i>Unhatched</i> or <i>Life Thief</i> "
+"before leaving. That is the best hitpoints that money can buy and he will "
+"act trustfully as <i>Mage</i>'s or <i>Elvish Shaman</i>'s bodyguard. Have a "
+"lot of them, and keep recruiting to make up for the losses you'll have in "
+"their ranks."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:15
+msgid ""
+"<u>Elvish Scout:</u> on wide maps, it can be good to have some, but most of "
+"time, you will get one for village grabbing only. In the middle of the game, "
+"you will go for <i>Elvish Fighters</i> and an <i>Elvish Archer</i> once in a "
+"while. You will recruit more <i>Elvish Scouts</i> only is you think that you "
+"have some chances to level them with the required XP being one kill lower "
+"then <i>Elvish Archers</i>'."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:17
+msgid ""
+"<u>Elvish Shaman:</u> she is as usual the hidden treasure of the Rebels. "
+"With slow special, she is able to reduce the damage Nightmares will inflict "
+"at night and nailed down the <i>Life Thieves</i> when they have to retreat. "
+"With her high defense on forest, she is quite difficult to take down for the "
+"<i>Unhatcheds</i> while they can't really get help from the <i>Black Cat</i> "
+"as he would feared to get slowed in front of angry <i>Elvish Fighters</i>. "
+"The usual things with shamans: slow the targets you can't kill, or slow a "
+"target to lower its retaliation if you intend an attack on your enemy's "
+"primary range."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:19
+msgid ""
+"<u>Mage:</u> the use of Rebels' <i>Mage</i> will be quite different from "
+"Loyalists'. As the presence of <i>Woses</i> will call for <i>Life Thieves</"
+"i>, the <i>Mage</i>'s main role will be to put pressure on them and counter "
+"when the day comes. For this job, a quick mage is best as he can catch up "
+"with running <i>Life Thieves</i>. When targeting them, make sure you hit the "
+"ones with most XP as you don't want one to level. He will again be the "
+"preferred target for the <i>Unhatched</i> and hence should be covered with "
+"<i>Elvish Fighters</i> at night as the <i>Woses</i> will be busy running "
+"away from <i>Life Thieves</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:21
+msgid ""
+"<u>Merman Hunter:</u> less useful than the Loyalists' <i>Merman Fighter</i>, "
+"he still can get some use if a patch of water in present in the map. Try to "
+"use them to fix an <i>Unstable Elemental</i> in the water. Don't hesitate to "
+"attack him as your resistances are better than his."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/rebels.cfg:23
+msgid ""
+"<u>Wose:</u> you can recruit some <i>Woses</i> as he is excellent at "
+"countering the <i>Unhatched</i>'s charges or taking them down at day time. "
+"While he is resistant to most Nightmares' attacks, he is very weak when "
+"facing the <i>Life Thief</i> who can inflict heavy damage with its arcane "
+"melee while getting healed from drains. As the <i>Wose</i> is as expensive "
+"and slower then the <i>Life Thieves</i> you can't afford to let him fight "
+"them alone and should back him with <i>Mages</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:3
+msgid "Undead vs Nightmares of Meloen"
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:5
+msgid ""
+"Having to fight Nightmares is one to the toughest experience for Undead. "
+"Unlike what they are used to, Undead in this matchup will play by counter-"
+"attack as the ability of make the most damages is not on their side. While "
+"you will be relatively safe on the ranged front, the <i>Unhatched</i>'s "
+"impact will break your <i>Skeletons</i> in piece, the <i>Life Thief</i>'s "
+"arcane will tear them apart while the cheap <i>Creepers</i>' banding is an "
+"additional threat to your <i>Dark Adepts</i>. So you will have to turn on "
+"the survival mode as soon as possible, recruiting <i>Ghoul</i>, <i>Ghost</"
+"i>, <i>Walking Corpse</i>, still some <i>Skeletons</i> and <i>Dark Adept</i> "
+"for the counter."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:7
+msgid ""
+"Always keep a decent amount of <i>Dark Adepts</i> on the board in order to "
+"keep Nightmares under pressure of a possible attack and the threat of a hard "
+"counter-strike. This way you will be ruling on the ranged as they will rule "
+"on the melee part. As you will unlikely face the threat of <i>Life Thieves</"
+"i> in the beginning, you will have to deal with <i>Unhatched</i> first by "
+"recruiting <i>Walking Corpses</i> to contain them and keeping your "
+"<i>Skeletons</i> on high defense. While your <i>Walking Corpses</i> begin "
+"taming the <i>Unhatched</i>, Nightmares will send more <i>Life Thieves</i>. "
+"Try to make them attack your <i>Skeletons</i> as if they get wounded, they "
+"will become an easy job for your <i>Dark Adepts</i>. "
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:9
+msgid ""
+"It is quite sure that at a certain moment, as your <i>Walking Corpses</i> "
+"starts getting annoying, Nightmares will recruit <i>Creepers</i>. As level 0 "
+"units, they are quite a natural opposition for the <i>Walking Corpses</i>, "
+"however they require some special techniques to deal with them. <i>Creepers</"
+"i> have a neutral alignment so you better fight them at night as two hits "
+"will be enough to kill them (they won't get plagued). Because the banding "
+"ability can make them inflict high damage you should always try to attack "
+"the most isolated ones, if you really need to kill one in the pack, better "
+"use the <i>Skeleton</i> as he resists strongly their pierce."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:11
+msgid ""
+"<u>Dark Adept:</u> again, the <i>Dark Adept</i> will be your best unit for "
+"attacking. The threat of the <i>Unhatched</i>'s charge will be the major "
+"challenge, as three hits are enough to kill an adept at night. When they are "
+"in position to attack they should hit the <i>Unhatched</i> first as they "
+"will do maximum damage against them. The second best choice being the "
+"<i>Life Thief</i>. Try to pick your target so your <i>Dark Adept</i> can "
+"take the shoot from good defense or make sure you can cover him immediately. "
+"You'll want to go for a kill each time you attempt to damage an "
+"<i>Unhatched</i>, because even a badly hurt one will safely charge your "
+"<i>Dark Adept</i> for massive damage before dying."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:13
+msgid ""
+"<u>Ghost:</u> with drains on its arcane melee, the <i>Ghost</i> can enjoy "
+"this matchup. It is simply unattackable by the <i>Unhatched</i> without very "
+"heavy risk, and efficient enough to deal damages to the <i>aberrations</i> "
+"and <i>Unstable Elemental</i>and to a lesser extend to the <i>Creepers</i>. "
+"Its only problem will be when facing full health <i>Life Thieves</i> or "
+"<i>Scornful Watchers</i>. As the <i>Ghost</i> has worst resistance, less "
+"hitpoints and doesn't hit as hard, it should not engage in direct fight with "
+"them. Hopefully it can rely on its better movement points to make sure to "
+"keep far enough, as long as it doesn't get slowed by the bramble form of the "
+"<i>Unstable Elemental</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:15
+msgid ""
+"<u>Ghoul:</u> don't underestimate the <i>Ghoul</i> role in this matchup. It "
+"is a decent candidate for holding village against <i>Unhatcheds</i> with its "
+"poison retaliation, and <i>Life Thieves</i> with its relative resistance to "
+"arcane. He can also poison <i>Unstable Elemental</i> to force them to heal, "
+"depriving Nightmares of support units."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:17
+msgid ""
+"<u>Skeleton:</u> it is a good support unit against Nightmares. As it "
+"certainly fears the <i>Unhatched</i>'s impact and <i>Life Thief</i>'s arcane "
+"melee, he can cause enough damage to make its sacrifice worthwhile. While "
+"the <i>Skeleton</i> can help clearing <i>Creepers</i> out of the way, it is "
+"not worth putting it on bad defense terrain for that as the Nightmares' "
+"counter will hurt him badly. It is also the best damage dealer against "
+"<i>Black Cat</i> and <i>Scornful Watcher</i> if they are present on the "
+"field. But it is not worth to feed it with kills, better use a <i>Walking "
+"Corpse</i> to plague them, or try to upgrade a <i>Ghost</i>."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:19
+msgid ""
+"<u>Skeleton Archer:</u> do not recruit any <i>Archer</i>, they are made of "
+"the kind of bones <i>Unhatched</i> likes to play with. At any time of the "
+"day, the <i>Unhatched</i> will be attracted by them and his impact charge "
+"attack will destroy them within the second. There is no way the <i>Skeleton "
+"Archer</i> can make enough damage before dying to repay its gold."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:21
+msgid ""
+"<u>Vampire Bat:</u> even the hax power of the <i>Bat</i> is not enough to "
+"save them against the charge of an <i>Unhatched</i>. Any bat is killed in "
+"two hits and the intelligent ones are dead in one single hit at night. If "
+"you got one, use it to steal village or disrupt Nightmares' organization. "
+"But stay away from <i>Unhatcheds</i> and <i>Scornful Watchers</i> at all "
+"time."
+msgstr ""
+
+#: Nightmares_of_Meloen/doc/how_to_play/undead.cfg:23
+msgid ""
+"<u>Walking Corpse:</u> the use of <i>Walking Corpse</i> is mainly for "
+"obstructing, screening off <i>Dark Adepts</i> and <i>Skeletons</i> from "
+"their foes. You can also place them around units that are holding a position "
+"to reduce the number of spots available for attack. On attack, they should "
+"focus on <i>Creepers</i> and <i>Unhatched</i>."
+msgstr ""
+
+#. [era]: id=aoh_nightmares_of_meloen_{NIGHTMARES_OF_MELOEN_VERSION}
+#: Nightmares_of_Meloen/eras/aoh+nightmares.cfg:5
+msgid "Heroes+Nightmares"
+msgstr ""
+
+#. [era]: id=nightmares_of_meloen_{NIGHTMARES_OF_MELOEN_VERSION}
+#: Nightmares_of_Meloen/eras/default+nightmares.cfg:5
+msgid "Default+Nightmares"
+msgstr ""
+
+#. [race]: id=aberration
+#: Nightmares_of_Meloen/races/race_abberation.cfg:10
+msgid "race+plural^Aberrations"
+msgstr ""
+
+#. [race]: id=elemental
+#: Nightmares_of_Meloen/races/race_elemental.cfg:10
+msgid "race+plural^Elementals"
+msgstr ""
+
+#. [race]: id=insect
+#: Nightmares_of_Meloen/races/race_insect.cfg:10
+msgid "race+plural^Insects"
+msgstr ""
+
+#. [race]: id=nightmare
+#: Nightmares_of_Meloen/races/race_nightmare.cfg:9
+msgid "race+plural^Nightmares"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:51
+msgid "slippery"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:55
+msgid "+20% pierce resistance, +1 hitpoint"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:94
+msgid "flexible"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:98
+msgid "+20% impact resistance, +2 hitpoints +1 hitpoint per level"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:137
+msgid "thick"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:141
+msgid "+20% blade resistance"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:182
+msgid "hard"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:186
+msgid "+20% blade and pierce resistance, −20% impact resistance, −5% hitpoints"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:254
+msgid "+1 melee damage, +1 hitpoint"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:302
+msgid "+4 hitpoints +1 hitpoint per level"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:345
+msgid "−20% experience needed for promotion"
+msgstr ""
+
+#. [set_variable]
+#: Nightmares_of_Meloen/traits/trait_unhatched.cfg:394
+msgid "+1 movement, −5% hitpoints"
+msgstr ""
+
+#. [unit_type]: id=Jinx Beast, race=aberration
+#: Nightmares_of_Meloen/units/aberrations/ab_bc_02_jinx_beast.cfg:24
+msgid ""
+"Sage Hogene, excerpt from a conversation with Lieutenant Artingale:\n"
+"'My Lord, I have understood the nature of those beasts' capacity. There is "
+"no curse, it is only a mind trick.\n"
+"- What do you mean? Facts prove you wrong, the men are struck by misfortune. "
+"Look at the battle, they seem unable to parry the most simple blows as soon "
+"as they meet the damned creatures.\n"
+"- They are under the effects of some sort of hypnose, persuading them of "
+"their misfortune, and making them responsible of their own clumsiness. "
+"Fortunately, I found a way to dispel the clouds in their mind, and restore "
+"their ability to fight.'"
+msgstr ""
+
+#. [unit_type]: id=Calamity, race=aberration
+#: Nightmares_of_Meloen/units/aberrations/ab_bc_03_calamity.cfg:25
+msgid ""
+"Noble Ordwin, Nemesis:\n"
+"'Nothing but a cruel wound, a blow dealt to our mind\n"
+"That turns hope into despair and makes us resign.\n"
+"I know my life's a gamble, but in that forest\n"
+"Misfortune made my path cross with my nemesis'.'"
+msgstr ""
+
+#. [attack]
+#: Nightmares_of_Meloen/units/aberrations/ab_sw_02_spiteful_watcher.cfg:43
+#: Nightmares_of_Meloen/units/aberrations/ab_sw_03_inquisitor.cfg:45
+#: Nightmares_of_Meloen/units/aberrations/ab_sw_01_scornful_watcher.cfg:51
+msgid "arcane_focus"
+msgstr ""
+
+#: Nightmares_of_Meloen/units/elementals/el_ue_02_nature_wrath.cfg:35
+msgid ""
+"Silver Mage Norsesh, Arcane Control - Analysis and Theorisation:\n"
+"'One may interrogate himself on the way to be more potent with the usage of "
+"what is called magic by the common. That question inherently comes with an "
+"opposition between the quantity of energy transmitted and the efficiency of "
+"that transmission.\n"
+"[...]\n"
+"A literal example of power increase is the growth of Unstable elementals, "
+"becoming incarnations of the very wrath of nature, as seen in the south of "
+"the Wesnoth region. Far from getting more control over the energy projected, "
+"the creature only evolves in increasing that energy, making itself the "
+"puppet of its own emotion, like a child with the overgrown body of a man.'"
+msgstr ""
+
+#. [unit_type]: id=Soul Snatcher, race=nightmare
+#: Nightmares_of_Meloen/units/nightmares/ni_lt_02_soul_snatcher.cfg:24
+msgid ""
+"King Dowrein I, Memoirs of a mercenary:\n"
+"'I had seen this scene a hundred times, the quiet walk of the merchants, the "
+"soldiers narrating their exploit of the day before, then the anxiety of the "
+"horses, the stop of the march and all eyes and hears looking for the "
+"smallest sign. And the attack of those demonic creatures.\n"
+"\n"
+"But as used as we were to drive them back to that cursed forest, that fear "
+"remained the same each with each battle. The fear to lose our mind and soul "
+"to one of them, and ultimately, our life.'"
+msgstr ""
+
+#. [unit_type]: id=Death Spectre, race=nightmare
+#: Nightmares_of_Meloen/units/nightmares/ni_lt_03_death_spectre.cfg:25
+msgid ""
+"Noble Ordwin, Touched by the spectre:\n"
+"'What is to see, in the night of their mantle\n"
+"That fascinates us and makes us pass way\n"
+"Without a complaint in the midst of the battle?\n"
+"Our soul, waiting that instant for itself to display.'"
+msgstr ""
+
+#. [leadership]: id=band
+#: Nightmares_of_Meloen/utils/band.cfg:7
+msgid "band insect"
+msgstr ""
+
+#. [leadership]: id=band
+#: Nightmares_of_Meloen/utils/band.cfg:9
+msgid ""
+"Band Insect:\n"
+"When attacking, the unit gets an additionnal strike for each insect next to "
+"it"
+msgstr ""
+
+#. [terrain_type]
+#: Nightmares_of_Meloen/utils/glowing_rune_terrains.cfg:7
+msgid "Sinister Rune - Castle"
+msgstr ""
+
+#. [terrain_type]
+#: Nightmares_of_Meloen/utils/glowing_rune_terrains.cfg:17
+msgid "Sinister Rune - Keep"
+msgstr ""
+
+#. [dummy]: id=weapon_special_jinx
+#: Nightmares_of_Meloen/utils/jinx.cfg:13
+#: Nightmares_of_Meloen/utils/jinx.cfg:16
+msgid ""
+"Jinx:\n"
+"Curses the hit unit. The cursed unit gets a 15% defense penalty on every "
+"terrain until it is cured by a healer or in a village.\n"
+"Does not affect undeads, and the defense value can't go lower than 10%."
+msgstr ""
+
+#. [message]
+#: Nightmares_of_Meloen/utils/switch_ai.cfg:16
+msgid "Which AI do you want to use ?"
+msgstr ""
+
+#. [option]
+#: Nightmares_of_Meloen/utils/switch_ai.cfg:19
+msgid "Nightmares of Meleon's customized AI."
+msgstr ""
+
+#. [option]
+#: Nightmares_of_Meloen/utils/switch_ai.cfg:29
+msgid "Default AI."
+msgstr ""
+
+#. [print]
+#: Nightmares_of_Meloen/utils/switch_ai.cfg:84
+msgid "AI control: file"
 msgstr ""
