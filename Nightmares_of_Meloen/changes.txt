@@ -1,0 +1,12 @@
+r7558 | faabumc | 2010-09-20 09:41:19 +0800 (Mon, 20 Sep 2010) | 2 lines
+
+NoM: create branch 1.8
+
+r7559 | faabumc | 2010-09-20 09:46:48 +0800 (Mon, 20 Sep 2010) | 1 line
+
+NoM 1.8: remove development era.
+
+r8363 | faabumc | 2010-12-27 21:43:16 +0800 (Mon, 27 Dec 2010) | 1 line
+
+NoM: merge back r8355 from trunk
+
